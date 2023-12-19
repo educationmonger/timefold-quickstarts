@@ -15,9 +15,23 @@ public class TimeTable {
     @ProblemFactCollectionProperty
     @ValueRangeProvider
     private List<Timeslot> timeslotList;
+
     @ProblemFactCollectionProperty
     @ValueRangeProvider
     private List<Room> roomList;
+
+    @ProblemFactCollectionProperty
+    @ValueRangeProvider
+    private List<Cohort> cohortList;
+
+    @ProblemFactCollectionProperty
+    @ValueRangeProvider
+    private List<Student> studentList;
+
+    @ProblemFactCollectionProperty
+    @ValueRangeProvider
+    private List<Tutor> tutorList;
+
     @PlanningEntityCollectionProperty
     private List<Lesson> lessonList;
 
@@ -28,9 +42,13 @@ public class TimeTable {
     public TimeTable() {
     }
 
-    public TimeTable(List<Timeslot> timeslotList, List<Room> roomList, List<Lesson> lessonList) {
+    public TimeTable(List<Timeslot> timeslotList, List<Room> roomList, List<Cohort> cohortList,
+            List<Student> studentList, List<Tutor> tutorList, List<Lesson> lessonList) {
         this.timeslotList = timeslotList;
         this.roomList = roomList;
+        this.cohortList = cohortList;
+        this.studentList = studentList;
+        this.tutorList = tutorList;
         this.lessonList = lessonList;
     }
 
@@ -44,6 +62,18 @@ public class TimeTable {
 
     public List<Room> getRoomList() {
         return roomList;
+    }
+
+    public List<Cohort> getCohortList() {
+        return cohortList;
+    }
+
+    public List<Student> getStudentList() {
+        return studentList;
+    }
+
+    public List<Tutor> getTutorList() {
+        return tutorList;
     }
 
     public List<Lesson> getLessonList() {

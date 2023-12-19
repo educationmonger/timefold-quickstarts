@@ -1,0 +1,509 @@
+﻿student_record_id,linked_student,current_group,MON_15:30,MON_16:30,MON_17:30,TUE_15:30,TUE_16:30,TUE_17:30,WED_15:30,WED_16:30,WED_17:30,THU_15:30,THU_16:30,THU_17:30,Response_Received,current_time,cohort,num_timeslots_completed,num_timeslots_impossible,temp_resend_scheduling_form,record_creation_timestamp,Response_Received_LookUp,current_tutor
+reclFANNaJ8o25jjf,jamlov01-rh,I13-THU15:00-A,4,2,1,4,4,1,4,2,1,4,4,1,Response Received,15:00,I13,12,6,,12/7/2023 2:13pm,Response Received,Louise
+recNu3NYVD8uSpijh,lucdac01-rh,P13-TUE16:15-A,2,2,4,1,2,4,1,2,4,1,2,4,Response Received,16:15,P13,12,4,,12/7/2023 12:19pm,Response Received,Miche
+rechgikuZ39CLixah,kammar01-rh,A8-THU16:15-B,4,4,4,3,3,3,1,1,1,1,1,1,Response Received,16:15,A8,12,3,,12/7/2023 10:15am,Response Received,Selasie
+rectrHx3tdTNQ6x7O,qhasil01-rh,B11-WED17:30-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,17:30,B11,12,8,,12/7/2023 10:08am,Response Received,Kiah
+recQuNZltRwEqwGca,othsil01-rh,B11-THU17:30-B,4,4,4,4,4,1,4,4,1,4,4,1,Response Received,17:30,B11,12,9,,12/7/2023 10:07am,Response Received,Dieter
+recwVdGHjoVkNvoEG,phisil01-rh,I11-MON17:30-A,4,4,1,4,4,1,4,4,4,4,4,4,Response Received,17:30,I11,12,10,,12/7/2023 10:06am,Response Received,Dan
+recBAYZUoE3w8FUle,sinbut01-rh,I8-MON16:15-A,4,1,3,4,4,4,4,4,4,4,4,4,Response Received,16:15,I8,12,10,,12/7/2023 10:03am,"Response Received, Response Received",Liza
+recUZat5VwMbXUPpu,benbal01-rh,B11-THU17:30-A,4,4,4,4,4,1,4,4,4,4,4,2,Response Received,17:30,B11,12,10,,12/7/2023 10:02am,Response Received,Kiah
+recvB97hkWouxf9NI,dambru01-rh,B10-MON16:15-A,2,4,4,2,4,4,3,4,4,2,4,4,Response Received,16:15,B10,12,8,,12/7/2023 10:02am,"Response Received, Response Received",Christine
+recfm5rVBiX4GmTz9,zandem01-rh,B10-WED16:15-A,4,2,1,4,4,4,4,3,1,4,4,4,Response Received,16:15,B10,12,8,,12/7/2023 10:01am,Response Received,Miche
+recpgAwiJKoUpL5du,nicjan01-rh,A11-TUE17:30-A,4,4,3,4,4,3,4,4,3,4,4,3,Response Received,17:30,A11,12,8,,12/7/2023 9:38am,Response Received,Imaan
+rec6UqF7C70IrPFdF,marpal01-rh,I11-THU17:30-A,4,2,1,4,2,1,4,2,1,4,2,2,Response Received,17:30,I11,12,4,,12/7/2023 6:37am,Response Received,Liza
+recIOykAwwFD2OI5p,sermfu01-rh,A12-TUE17:30-A,4,4,4,4,4,1,4,4,4,4,4,4,Response Received,17:30,A12,12,11,,12/6/2023 11:35pm,Response Received,Matthew
+recDi9pDG2gmyUJqX,kalgro01-rh,B11-WED17:30-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,17:30,B11,12,8,,12/6/2023 10:12pm,Response Received,Kiah
+recibP8LheDeGpnAZ,framak01-rh,I12-MON17:30-A,4,3,1,4,3,1,4,3,1,4,3,1,Response Received,17:30,I12,12,4,,12/6/2023 10:12pm,Response Received,Julian
+rec8kf10SBtK7SjtK,shudov01-rh,A7-TUE17:30-A,4,4,4,4,4,1,4,4,4,4,4,3,Response Received,17:30,A7,12,10,,12/6/2023 10:09pm,Response Received,Dan
+recrf9tx9guG0EMz0,thamar01-rh,I12-TUE17:30-A,1,2,3,1,2,3,1,2,3,1,2,3,Response Received,17:30,I12,12,0,,12/6/2023 9:41pm,Response Received,Louise
+rec2pxFnHaFRu4DoA,rubdev01-rh,A8-THU17:30-A,4,4,4,4,4,4,4,2,1,4,2,1,Response Received,17:30,A8,12,8,,12/6/2023 9:02pm,Response Received,Greg
+recS8MO1FngDGzJiC,matlie01-rh,A9-WED16:15-A,4,2,3,4,2,3,4,2,3,4,2,3,Response Received,16:15,A9,12,4,,12/6/2023 8:38pm,Response Received,Vivienne
+rec6ABocN7RBz00FH,ronmas01-rh,A7-TUE17:30-B,4,4,4,4,2,2,4,4,4,3,2,1,Response Received,17:30,A7,12,7,,12/6/2023 8:27pm,Response Received,Jenna
+reccoygnC9V1ogiVI,thomok01-rh,I9-THU16:15-A,2,1,1,4,4,3,4,4,3,4,2,3,Response Received,16:15,I9,12,5,,12/6/2023 7:24pm,Response Received,Hendrik
+recuj1pcjlREVMt74,sorpaz01-rh,I8-MON17:30-A,4,1,1,4,4,3,4,4,4,4,2,2,Response Received,17:30,I8,12,7,,12/6/2023 6:52pm,Response Received,Joseph
+recl7bIo8LlINtCAO,geruec01-rh,A11-WED17:30-A,4,4,1,4,4,2,4,4,1,4,4,4,Response Received,17:30,A11,12,9,,12/6/2023 6:51pm,Response Received,Imaan
+recQaoib4b62LiIhN,micjou01-rh,I10-WED16:15-A,4,3,4,4,3,4,4,3,2,4,3,2,Response Received,16:15,I10,12,6,,12/6/2023 6:37pm,"Response Received, Response Received",David
+recV9WaSwAg63Yx9G,kapram01-rh,A12-THU17:30-A,4,4,4,4,4,4,4,4,4,4,4,1,Response Received,17:30,A12,12,11,,12/6/2023 6:31pm,Response Received,Jenna
+recfWaxpDgrEyHJHI,letcel01-rh,B12-TUE16:15-A,2,1,3,3,1,3,3,2,3,3,2,4,Response Received,16:15,B12,12,1,,12/6/2023 6:14pm,Response Received,Kiah
+recmKlexxg7NSAlyv,reujor01-rh,I11-THU17:30-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,17:30,I11,12,8,,12/6/2023 6:11pm,Response Received,Liza
+reczZSngQXKMjGIws,onaman01-rh,A11-WED17:30-A,4,4,3,4,4,2,4,4,1,4,4,2,Response Received,17:30,A11,12,8,,12/6/2023 6:08pm,Response Received,Imaan
+recvB97hkWouxf9NI,dambru01-rh,B10-MON16:15-A,1,4,4,4,4,4,2,4,4,4,4,4,Response Received,16:15,B10,12,10,,12/6/2023 5:52pm,"Response Received, Response Received",Christine
+rec4UeW0QWT1ppysm,kyland01-rh,I10-WED15:00-A,2,2,2,2,2,2,2,2,2,2,2,2,Response Received,15:00,I10,12,0,,12/6/2023 5:28pm,Response Received,Liza
+rec59FaBu8qqI49rh,chlsch01-rh,I12-MON17:30-A,4,2,1,4,4,4,4,4,4,4,4,4,Response Received,17:30,I12,12,10,,12/6/2023 5:27pm,Response Received,Julian
+recxTz3Q5KMOCwftH,jacvan01-rh,A7-WED17:30-A,4,4,3,4,4,3,4,4,2,4,4,2,Response Received,17:30,A7,12,8,,12/6/2023 5:24pm,Response Received,Michael
+recSN3eYw59zXj9pI,ntamal01-rh,I8-MON17:30-A,4,2,3,4,2,3,4,2,3,4,2,3,Response Received,17:30,I8,12,4,,12/6/2023 5:23pm,Response Received,Joseph
+rec0Oq3QwU5B3zjIk,alepoo01-rh,A7-WED17:30-A,4,4,4,4,4,4,4,4,1,4,4,4,Response Received,17:30,A7,12,11,,12/6/2023 5:15pm,Response Received,Michael
+recycRYVfRtscJbh5,yurkom01-rh,A13-WED17:30-A,4,4,1,4,4,1,4,4,3,4,4,4,Response Received,17:30,A13,12,9,,12/6/2023 4:55pm,Response Received,Jenna
+recPZIxoTha6uML0t,umasar01-rh,A12-THU17:30-B,3,2,1,3,2,1,3,2,1,3,2,1,Response Received,17:30,A12,12,0,,12/6/2023 4:46pm,Response Received,David
+rec4WQbR8qOhuV0jY,artrei01-rh,A12-THU17:30-A,4,2,1,4,2,1,4,2,1,4,2,1,Response Received,17:30,A12,12,4,,12/6/2023 3:58pm,Response Received,Jenna
+recoqjfKKIe7gwS8i,siyvez01-rh,A11-MON16:15-A,4,2,2,4,2,2,4,1,2,4,2,1,Response Received,16:15,A11,12,4,,12/6/2023 3:27pm,Response Received,Selasie
+recXlgGEg4FJXEPqN,reukan01-rh,A7-TUE17:30-B,4,4,1,4,2,4,4,4,3,4,4,3,Response Received,17:30,A7,12,8,,12/6/2023 3:23pm,Response Received,Jenna
+recRBlBAPli7LUYyT,niemoo01-rh,I11-MON17:30-B,3,2,1,4,4,4,3,4,2,4,4,4,Response Received,17:30,I11,12,7,,12/6/2023 3:21pm,Response Received,Kiah
+rec8uDpfcgBydaIze,josvan01-rh,B10-TUE17:30-A,4,4,3,4,4,1,4,4,1,4,4,4,Response Received,17:30,B10,12,9,,12/6/2023 3:12pm,Response Received,Christine
+recMsrIPSoJsouXyE,lukdun01-rh,I13-TUE16:15-A,4,4,4,4,1,3,4,4,3,4,3,4,Response Received,16:15,I13,12,8,,12/6/2023 2:59pm,Response Received,Jenna
+recwf7lpAPEEmxGRI,olismi01-rh,B10-THU17:30-A,4,4,4,4,4,4,4,4,3,4,4,1,Response Received,17:30,B10,12,10,,12/6/2023 2:58pm,Response Received,Christine
+recy7I2zh9yIMt6zI,ethwil01-rh,I10-WED17:30-A,4,4,4,4,3,3,4,3,1,4,3,1,Response Received,17:30,I10,12,6,,12/6/2023 2:50pm,Response Received,Louise
+recHVmWJ5VVrYN02d,bjoeck01-rh,I12-MON17:30-A,4,4,2,4,4,4,4,4,2,4,4,4,Response Received,17:30,I12,12,10,,12/6/2023 2:41pm,Response Received,Julian
+rec5sZ5Iaj7dsRmGc,crecoe01-rh,B13-TUE16:15-A,4,2,1,4,2,1,4,2,1,4,2,1,Response Received,16:15,B13,12,4,,12/6/2023 2:20pm,Response Received,Dieter
+rec7STC7oxQ5hniLO,jaclam01-rh,A8-THU16:15-C,4,3,4,4,1,1,4,1,1,4,3,4,Response Received,16:15,A8,12,6,,12/6/2023 2:16pm,"Response Received, Response Received",Jenna
+rec7STC7oxQ5hniLO,jaclam01-rh,A8-THU16:15-C,4,3,4,4,1,1,4,1,1,4,3,4,Response Received,16:15,A8,12,6,,12/6/2023 2:16pm,"Response Received, Response Received",Jenna
+reczxoeCgVOjBVjCT,liajoa01-rh,A10-TUE16:15-B,4,4,4,4,4,4,4,3,3,4,1,2,Response Received,16:15,A10,12,8,,12/6/2023 2:06pm,Response Received,Michael
+recdUXneliFBIYNMB,zammay01-rh,A7-TUE17:30-A,4,3,1,4,3,1,4,2,1,4,2,1,Response Received,17:30,A7,12,4,,12/6/2023 1:48pm,Response Received,Dan
+recjvEHug0ztZM3Ub,luabou01-rh,I10-WED17:30-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,17:30,I10,12,8,,12/6/2023 1:28pm,Response Received,Louise
+recB056FUeMB4piLK,teblij01-rh,I10-MON17:30-A,4,4,1,4,4,1,4,4,1,4,2,1,Response Received,17:30,I10,12,7,,12/6/2023 1:23pm,Response Received,Miche
+recIadlIC02fYZxnc,mphlij01-rh,I10-MON15:00-A,1,1,1,3,1,1,4,4,4,3,1,1,Response Received,15:00,I10,12,3,,12/6/2023 1:21pm,Response Received,Liza
+recwnvMe670EpcAuG,sofdas01-rh,B10-TUE17:30-A,4,4,3,4,3,1,4,4,3,4,3,1,Response Received,17:30,B10,12,6,,12/6/2023 1:16pm,Response Received,Christine
+recip8KkkFULUGAL4,zahlah01-rh,A12-THU17:30-B,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,17:30,A12,12,8,,12/6/2023 1:14pm,Response Received,David
+recJtEA5m2q56px7q,nkamaf01-rh,A12-THU16:15-A,4,4,4,4,4,4,4,4,4,1,3,4,Response Received,16:15,A12,12,10,,12/6/2023 1:10pm,Response Received,Louise
+recM6y68npcmmD54w,hasbho01-rh,A12-THU16:15-A,4,2,3,4,2,2,4,2,3,4,2,2,Response Received,16:15,A12,12,4,,12/6/2023 1:09pm,Response Received,Louise
+recBAYZUoE3w8FUle,sinbut01-rh,I8-MON16:15-A,4,1,4,4,2,4,4,4,4,4,4,4,Response Received,16:15,I8,12,10,,12/6/2023 1:08pm,"Response Received, Response Received",Liza
+recaTowAwm1yBITq5,naehen01-rh,I10-TUE16:15-A,4,4,2,4,2,1,4,4,2,4,4,2,Response Received,16:15,I10,12,7,,12/6/2023 1:02pm,Response Received,Liza
+recSRSsACrEoeR7Vv,amaale01-rh,A8-MON17:30-A,4,1,1,4,4,4,4,4,4,4,4,4,Response Received,17:30,A8,12,10,,12/6/2023 1:02pm,Response Received,Michael
+recQEKgLKFgkC3BwF,bokmma01-rh,I10-THU16:15-B,3,3,4,3,3,2,3,3,4,3,3,2,Response Received,16:15,I10,12,2,,12/6/2023 12:53pm,Response Received,Miche
+recw5X0EFcpXCNVop,dyltho01-rh,I13-THU15:00-A,1,1,2,4,4,4,1,1,2,4,4,3,Response Received,15:00,I13,12,5,,12/6/2023 12:47pm,Response Received,Louise
+recL10mr58yov9v6X,abddoc01-rh,B10-THU15:00-A,3,2,2,3,2,2,3,2,2,3,2,2,Response Received,15:00,B10,12,0,,12/6/2023 12:42pm,Response Received,Dieter
+recx3gtviwdFM1dLa,inebal01-rh,A9-MON16:15-A,4,2,2,4,2,2,4,2,2,4,2,2,Response Received,16:15,A9,12,4,,12/6/2023 12:41pm,Response Received,Louise
+recaLBEgpYiDKZbGW,sebbud01-rh,A8-TUE17:30-B,4,2,1,4,2,1,4,2,1,4,2,1,Response Received,17:30,A8,12,4,,12/6/2023 12:40pm,Response Received,Greg
+recnqA2tKAtZOfVIT,alebud01-rh,I8-MON17:30-B,4,2,1,4,4,2,4,2,1,4,4,1,Response Received,17:30,I8,12,6,,12/6/2023 12:39pm,Response Received,Louise
+recmML4OEBeSdHou7,emilaw01-rh,A8-WED17:30-B,4,4,2,4,4,1,4,4,1,4,4,2,Response Received,17:30,A8,12,8,,12/6/2023 12:23pm,Response Received,Greg
+recCC0iRjfkECvzn8,thamag01-rh,A12-THU17:30-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,17:30,A12,12,8,,12/6/2023 12:23pm,Response Received,Jenna
+recBMT2PxVpwOREm6,fradut01-rh,I8-THU15:00-A,4,4,4,4,4,4,4,4,4,4,4,4,Response Received,15:00,I8,12,12,,12/6/2023 12:12pm,Response Received,Liza
+rec1SxqzAgWiOA1IC,jahpar01-rh,B11-THU17:30-B,4,2,1,4,2,1,4,2,1,4,2,1,Response Received,17:30,B11,12,4,,12/6/2023 12:10pm,Response Received,Dieter
+rec2sEieigF3YjtvA,kaycom01-rh,I8-MON16:15-A,4,4,1,4,4,4,4,4,2,4,4,4,Response Received,16:15,I8,12,10,,12/6/2023 12:09pm,Response Received,Liza
+recxsE4fun3z9uaUs,dylmac01-rh,I9-THU16:15-A,2,2,2,2,2,2,2,2,2,2,2,2,Response Received,16:15,I9,12,0,,12/6/2023 11:51am,Response Received,Hendrik
+rec1N97eJ58viU3v5,ryamac01-rh,A8-TUE16:15-A,2,2,2,2,2,2,2,2,2,2,2,2,Response Received,16:15,A8,12,0,,12/6/2023 11:51am,Response Received,Greg
+recFSdwYfNCB63RGQ,amafar01-rh,A10-MON17:30-A,4,4,1,4,4,2,4,4,3,4,4,4,Response Received,17:30,A10,12,9,,12/6/2023 11:24am,Response Received,Matthew
+recXyJugGyICj8bNa,aidmil01-rh,A10-WED16:15-A,4,1,1,4,4,4,1,1,1,4,4,4,Response Received,16:15,A10,12,7,,12/6/2023 11:22am,Response Received,Greg
+recU9f5NiYjwb1vdy,migchi01-rh,I12-WED16:15-B,4,2,4,4,2,2,2,1,2,4,2,4,Response Received,16:15,I12,12,5,,12/6/2023 11:15am,Response Received,Louise
+recO6uuvegWzmZ7Vw,ethchi01-rh,B12-WED16:15-A,4,2,2,4,2,2,2,1,2,4,2,2,Response Received,16:15,B12,12,3,,12/6/2023 11:13am,Response Received,Tiffany
+rec9wAFB2sETIPAdL,izasad01-rh,A12-THU16:15-A,1,1,4,1,1,4,1,1,4,1,1,4,Response Received,16:15,A12,12,4,,12/6/2023 11:04am,Response Received,Louise
+recz2J14vqmzWK06A,caldut01-rh,A10-THU15:00-A,3,3,4,2,2,4,2,2,4,2,1,4,Response Received,15:00,A10,12,4,,12/6/2023 11:03am,Response Received,Greg
+recKDSEAjjFwjqpco,lihhlo01-rh,B10-MON17:30-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,17:30,B10,12,8,,12/6/2023 10:50am,Response Received,Christine
+recf7qBI1vHlf0KPd,keedun01-rh,I12-TUE15:00-A,4,4,4,1,4,4,1,4,4,4,4,4,Response Received,15:00,I12,12,10,,12/6/2023 10:41am,Response Received,Liza
+recknL6afilnEYGN2,maepil01-rh,I12-WED16:15-B,2,1,2,2,2,2,2,2,2,2,2,2,Response Received,16:15,I12,12,0,,12/6/2023 10:41am,Response Received,Louise
+recSXc0iAbWMeenkv,lilblo01-rh,B13-THU16:15-A,3,1,4,3,1,4,3,1,4,3,1,4,Response Received,16:15,B13,12,4,,12/6/2023 10:33am,Response Received,Christine
+recdPA7UmXLLwSyLy,jusnin01-rh,A9-WED16:15-A,3,3,4,2,1,4,2,1,4,2,2,4,Response Received,16:15,A9,12,4,,12/6/2023 10:32am,Response Received,Vivienne
+recnhJsDczOYttpHM,nanpoh01-rh,I11-TUE15:00-A,2,2,4,2,2,2,2,2,2,4,4,4,Response Received,15:00,I11,12,4,,12/6/2023 10:24am,Response Received,Louise
+recdVxkJHCxsw3gNr,elimel01-rh,I12-WED16:15-B,4,2,1,4,2,1,4,2,1,4,2,1,Response Received,16:15,I12,12,4,,12/6/2023 10:15am,Response Received,Louise
+recGqnPw9DfIUg4gb,sopmea01-rh,A11-WED17:30-A,3,2,2,4,4,4,4,4,1,4,4,4,Response Received,17:30,A11,12,8,,12/6/2023 10:14am,Response Received,Imaan
+rec8RdHAjnEkgcQSa,hardeh01-rh,A11-THU16:15-A,4,2,4,4,2,4,4,2,4,4,2,4,Response Received,16:15,A11,12,8,,12/6/2023 10:10am,Response Received,Matthew
+recVrVOrsjA1HMJw6,ayamug01-rh,I10-THU16:15-A,4,3,2,4,3,2,4,3,2,4,3,2,Response Received,16:15,I10,12,4,,12/6/2023 10:08am,Response Received,Liza
+recyMfLnW4BzUQABw,dylwod01-rh,A8-TUE17:30-B,4,4,2,4,4,1,4,4,4,4,4,2,Response Received,17:30,A8,12,9,,12/6/2023 10:07am,Response Received,Greg
+recMG7vJr45cF7msd,dawsha01-rh,A13-MON16:15-A,3,1,2,3,1,2,3,1,2,3,1,2,Response Received,16:15,A13,12,0,,12/6/2023 9:53am,Response Received,Jenna
+recGIUhxn2jNhHPew,jachar01-rh,A8-TUE15:00-A,4,4,1,4,4,1,4,4,4,4,4,1,Response Received,15:00,A8,12,9,,12/6/2023 9:52am,Response Received,Greg
+recdkF8RhxG16nKTU,matack01-rh,A8-TUE15:00-A,4,3,2,4,3,4,4,3,2,2,3,4,Response Received,15:00,A8,12,5,,12/6/2023 9:52am,Response Received,Greg
+recwioir2WpMcsi2K,muvkri01-rh,A12-MON16:15-A,4,1,4,4,1,2,4,1,4,2,1,2,Response Received,16:15,A12,12,5,,12/6/2023 9:50am,Response Received,Imaan
+rec9sOKMWq1re0xod,kiyada01-rh,A7-TUE17:30-B,4,4,2,4,4,4,4,4,2,4,4,4,Response Received,17:30,A7,12,10,,12/6/2023 9:50am,Response Received,Jenna
+recDBvlwxzRVWq0XR,vuymab01-rh,B12-WED16:15-A,4,4,4,4,1,4,4,4,4,4,4,4,Response Received,16:15,B12,12,11,,12/6/2023 9:49am,Response Received,Tiffany
+reckeHCvsKgXrBuev,lamrou01-rh,I10-MON15:00-A,3,1,2,4,4,4,4,4,4,3,2,2,Response Received,15:00,I10,12,6,,12/6/2023 9:47am,Response Received,Liza
+recAPrDuCOBMPau1F,anjspa01-rh,A8-WED17:30-B,4,4,1,4,3,1,4,3,1,4,3,1,Response Received,17:30,A8,12,5,,12/6/2023 9:47am,Response Received,Greg
+reczxbenIN8IzGNIi,nicspa01-rh,I11-TUE16:15-A,4,1,1,4,2,1,4,4,1,4,4,1,Response Received,16:15,I11,12,6,,12/6/2023 9:46am,Response Received,Louise
+recNz5qBZssbSVvCX,evabar01-rh,P12-MON17:30-A,4,1,3,4,1,3,4,4,3,4,4,3,Response Received,17:30,P12,12,6,,12/6/2023 9:45am,Response Received,Bilqees
+recroJ2vxsYIhGzDT,mormat01-rh,B13-TUE16:15-A,3,2,2,3,4,4,2,2,2,3,4,4,Response Received,16:15,B13,12,4,,12/6/2023 9:45am,Response Received,Dieter
+rec5m3N53CJlTWf7I,sipkhu01-rh,A12-TUE16:15-A,4,4,4,4,3,2,4,2,2,4,3,4,Response Received,16:15,A12,12,7,,12/6/2023 9:44am,Response Received,David
+rec6fuPKa2d1MIcIW,liaven01-rh,A11-MON16:15-A,4,3,2,4,3,2,4,3,2,4,3,2,Response Received,16:15,A11,12,4,,12/6/2023 9:44am,Response Received,Selasie
+rec7tonzoH5WsseJU,yassit01-rh,I12-TUE15:00-A,1,3,4,2,2,4,2,3,4,4,1,4,Response Received,15:00,I12,12,5,,12/6/2023 9:43am,Response Received,Liza
+recE85LuN1HcrFo4b,maxhbn01-rh,B10-MON16:15-A,1,2,3,1,2,3,4,4,4,1,2,3,Response Received,16:15,B10,12,3,,12/6/2023 9:40am,Response Received,Christine
+recpR6XFmZcEfGI2a,wilroo01-rh,B10-TUE17:30-A,3,4,1,2,4,1,2,4,1,2,4,1,Response Received,17:30,B10,12,4,,12/6/2023 9:39am,Response Received,Christine
+recs7tTlgtCsB5dar,taksit01-rh,B10-WED16:15-A,2,1,4,2,4,4,2,1,4,4,4,4,Response Received,16:15,B10,12,7,,12/6/2023 9:39am,Response Received,Miche
+recGYIuzbcsYLBvj1,zwequn01-rh,I13-THU15:00-A,3,4,4,3,4,4,1,1,1,2,2,1,Response Received,15:00,I13,12,4,,12/6/2023 9:39am,Response Received,Louise
+recRHEPApRUWoGEk9,zaymah01-rh,A13-WED17:30-A,4,4,2,4,4,4,4,4,1,4,4,4,Response Received,17:30,A13,12,10,,12/6/2023 9:38am,Response Received,Jenna
+recuoIrAdMBJX5VyG,macsit01-rh,A12-MON16:15-A,3,3,4,3,1,4,3,1,4,3,1,4,Response Received,16:15,A12,12,4,,12/6/2023 9:38am,Response Received,Imaan
+recVCbZfgzhmnHjLW,holbas01-rh,I9-MON16:15-A,4,3,2,4,3,1,4,3,1,4,3,1,Response Received,16:15,I9,12,4,,12/6/2023 9:37am,Response Received,Joseph
+recf6AQ7XytmOwrbX,grabes01-rh,I10-TUE16:15-A,4,3,1,4,3,1,4,3,1,4,3,1,Response Received,16:15,I10,12,4,,12/6/2023 9:37am,Response Received,Liza
+recVvz6SX8SDyGY5g,rioqui01-rh,A11-TUE17:30-A,2,1,3,2,1,3,2,1,3,2,1,3,Response Received,17:30,A11,12,0,,12/6/2023 9:35am,Response Received,Imaan
+reco6MhOnRcRzKGkX,lorqui01-rh,A11-TUE16:15-A,2,1,3,2,1,3,2,1,3,2,1,3,Response Received,16:15,A11,12,0,,12/6/2023 9:34am,Response Received,Selasie
+recOAShsOBNZHjVHO,rubhad01-rh,A8-TUE17:30-B,3,4,4,2,2,1,3,4,4,4,4,4,Response Received,17:30,A8,12,7,,12/6/2023 9:33am,Response Received,Greg
+recv2PdH5jFV1AXTk,kehman01-rh,B10-TUE16:15-A,4,2,4,4,2,4,4,2,4,4,2,4,Response Received,16:15,B10,12,8,,12/6/2023 9:12am,Response Received,Tiffany
+recq5QqzrOXOfccMu,samahc01-rh,A11-WED16:15-A,4,4,4,3,3,4,1,1,4,1,1,4,Response Received,16:15,A11,12,6,,12/6/2023 9:05am,Response Received,Selasie
+recjK4lxGfjSNBUf1,aranar01-rh,A8-TUE17:30-B,4,4,3,4,4,3,4,4,3,4,4,3,Response Received,17:30,A8,12,8,,12/6/2023 8:50am,Response Received,Greg
+recl5g1zFI3Pz96xN,harles01-rh,B11-THU16:15-A,4,4,4,4,4,4,4,4,4,4,1,3,Response Received,16:15,B11,12,10,,12/6/2023 8:29am,Response Received,Tiffany
+recebLn9eMeVSKekd,chrthe01-rh,A11-WED17:30-A,4,4,4,3,1,2,3,1,2,3,1,2,Response Received,17:30,A11,12,3,,12/6/2023 8:15am,Response Received,Imaan
+recgu3qo94sQ3dhvf,viacal01-rh,B10-MON17:30-A,4,4,1,4,4,4,3,4,4,4,4,4,Response Received,17:30,B10,12,10,,12/6/2023 8:13am,Response Received,Christine
+rec7srHjgUJaxBmQH,yuskad01-rh,I8-MON17:30-A,4,4,1,4,3,2,4,4,2,4,3,2,Response Received,17:30,I8,12,6,,12/6/2023 7:37am,Response Received,Joseph
+recXgOZuuv4F5db3t,lukpre01-rh,B10-TUE17:30-B,4,3,1,4,4,1,4,2,1,4,2,1,Response Received,17:30,B10,12,5,,12/6/2023 7:17am,Response Received,Miche
+rece11qOHpimZSI54,ethwey01-rh,A11-WED17:30-A,4,4,4,2,4,4,4,4,2,4,4,4,Response Received,17:30,A11,12,10,,12/6/2023 5:50am,Response Received,Imaan
+recldhIkeURWdncLR,misjan01-rh,I12-TUE17:30-A,4,4,1,4,1,1,4,1,1,4,1,1,Response Received,17:30,I12,12,5,,12/5/2023 10:34pm,"Response Received, Response Received",Louise
+recldhIkeURWdncLR,misjan01-rh,I12-TUE17:30-A,4,4,1,4,1,1,4,1,1,4,1,1,Response Received,17:30,I12,12,5,,12/5/2023 10:34pm,"Response Received, Response Received",Louise
+recwf2SuY6ZS9EnU8,thatso01-rh,B13-MON17:30-A,4,2,1,4,4,3,4,4,3,4,4,3,Response Received,17:30,B13,12,7,,12/5/2023 10:13pm,Response Received,Dieter
+recQ1PebXksdV180l,levmey01-rh,A13-WED17:30-A,4,4,4,4,3,3,4,4,4,4,2,1,Response Received,17:30,A13,12,8,,12/5/2023 10:05pm,Response Received,Jenna
+rec73g8tyVaTtwGAW,tebbik01-rh,P13-TUE16:15-A,4,2,2,4,2,2,4,2,2,4,2,2,Response Received,16:15,P13,12,4,,12/5/2023 9:43pm,Response Received,Miche
+recYppt2yZdDLYZrE,caivan01-rh,A7-TUE17:30-A,4,1,1,4,1,1,4,3,4,4,1,1,Response Received,17:30,A7,12,5,,12/5/2023 9:24pm,Response Received,Dan
+recol9NYw7mmLlKL8,daneed01-rh,A11-WED16:15-A,1,1,3,4,3,3,1,1,3,4,3,3,Response Received,16:15,A11,12,2,,12/5/2023 9:02pm,Response Received,Selasie
+recwUDFRTFeDGKR8s,ciamar01-rh,A11-THU16:15-A,4,3,2,4,2,2,4,2,2,4,2,2,Response Received,16:15,A11,12,4,,12/5/2023 8:37pm,Response Received,Matthew
+rec3l2r6HEf5O9Bmv,aarjan01-rh,A8-THU17:30-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,17:30,A8,12,8,,12/5/2023 8:10pm,Response Received,Greg
+rec7v6gitq5AMGyg9,lewjan01-rh,A10-TUE16:15-B,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,16:15,A10,12,8,,12/5/2023 8:09pm,Response Received,Michael
+recJOwyvfKq0349LW,oliedw01-rh,A11-TUE16:15-A,3,4,4,3,4,4,4,4,4,1,4,4,Response Received,16:15,A11,12,9,,12/5/2023 8:07pm,Response Received,Selasie
+reck35E9ik4PCbetM,buhmac01-rh,A11-THU16:15-A,3,2,2,3,2,2,3,2,2,2,1,1,Response Received,16:15,A11,12,0,,12/5/2023 8:04pm,Response Received,Matthew
+reciRxoRyt74uxu7P,adaedw01-rh,A11-TUE16:15-A,2,2,2,2,2,2,2,2,2,2,2,2,Response Received,16:15,A11,12,0,,12/5/2023 8:03pm,Response Received,Selasie
+rec1Qr7ggr227Oce5,sebedw01-rh,I11-TUE15:00-A,1,3,3,1,3,3,1,3,3,4,4,3,Response Received,15:00,I11,12,2,,12/5/2023 8:03pm,Response Received,Louise
+recqfcycDcbefrb1E,zayare01-rh,I13-TUE16:15-A,4,4,4,3,1,2,4,4,4,4,3,2,Response Received,16:15,I13,12,7,,12/5/2023 8:01pm,Response Received,Jenna
+recbXVsoAY6ck9gPW,soltak01-rh,A7-WED17:30-A,4,4,2,4,3,2,4,4,2,4,4,4,Response Received,17:30,A7,12,8,,12/5/2023 6:52pm,Response Received,Michael
+recP5aXdf8F8LSy30,danbri01-rh,A11-WED16:15-A,4,1,4,4,3,4,4,1,4,4,2,4,Response Received,16:15,A11,12,8,,12/5/2023 6:23pm,Response Received,Selasie
+recKRBz5AUsiGk2x4,devmar01-rh,A8-THU17:30-A,4,4,2,4,4,2,4,4,2,4,4,2,Response Received,17:30,A8,12,8,,12/5/2023 6:16pm,Response Received,Greg
+recIhGMbBJ2iDJ9zw,geogib01-rh,I9-TUE17:30-A,1,4,4,1,4,4,1,4,4,1,4,4,Response Received,17:30,I9,12,8,,12/5/2023 5:55pm,"Response Received, Response Received",David
+recIhGMbBJ2iDJ9zw,geogib01-rh,I9-TUE17:30-A,1,4,4,1,4,4,1,4,4,1,4,4,Response Received,17:30,I9,12,8,,12/5/2023 5:54pm,"Response Received, Response Received",David
+rec430dclk5nVdByC,lakcho01-rh,I9-THU16:15-A,1,2,4,1,2,4,1,2,4,1,2,4,Response Received,16:15,I9,12,4,,12/5/2023 5:41pm,Response Received,Hendrik
+recSvFXyHqQJNrVvX,markas01-rh,I11-THU17:30-A,4,4,2,4,4,4,4,4,4,4,4,1,Response Received,17:30,I11,12,10,,12/5/2023 5:39pm,Response Received,Liza
+rec3dbBgcLqgzWTjM,ewagal01-rh,I11-THU17:30-A,4,4,4,4,3,2,4,3,2,4,2,1,Response Received,17:30,I11,12,6,,12/5/2023 5:23pm,Response Received,Liza
+recSDG9t5qXbatR6d,stemsi01-rh,A9-MON17:30-A,3,2,1,4,4,4,4,3,2,4,4,4,Response Received,17:30,A9,12,7,,12/5/2023 5:05pm,Response Received,Vivienne
+recf0gv9zZjT1jXR3,josmum01-rh,A13-THU17:30-A,1,2,3,2,1,3,4,2,1,2,1,2,Response Received,17:30,A13,12,1,,12/5/2023 4:54pm,Response Received,Matthew
+recdb6MJ5rfL0Hzg3,sofswa01-rh,A13-MON16:15-A,4,2,2,4,2,2,4,2,2,4,2,2,Response Received,16:15,A13,12,4,,12/5/2023 4:46pm,Response Received,Jenna
+recXXPicEVaW9Uzts,evango01-rh,I11-MON17:30-A,2,2,4,2,2,2,2,2,2,2,2,2,Response Received,17:30,I11,12,1,,12/5/2023 4:42pm,Response Received,Dan
+recvq91zXsKsIhYWD,ewacon01-rh,A7-TUE17:30-A,4,4,2,4,4,1,4,4,1,4,4,4,Response Received,17:30,A7,12,9,,12/5/2023 4:14pm,Response Received,Dan
+rec0QsMtOq08FTRc3,malpal01-rh,A8-THU17:30-A,4,3,2,4,3,2,4,3,1,4,3,2,Response Received,17:30,A8,12,4,,12/5/2023 4:11pm,Response Received,Greg
+recFZAXpHO9uuyCWg,jackin01-rh,I8-MON17:30-A,4,4,1,4,4,4,4,4,4,4,4,4,Response Received,17:30,I8,12,11,,12/5/2023 3:56pm,Response Received,Joseph
+recS4nRTOXCk2FNji,gabkin01-rh,I8-MON16:15-A,4,1,4,4,4,4,4,4,4,4,4,4,Response Received,16:15,I8,12,11,,12/5/2023 3:55pm,Response Received,Liza
+reciBrt1PlCmtdk7H,sismaj01-rh,I11-THU17:30-A,4,4,3,4,4,3,4,4,3,4,3,1,Response Received,17:30,I11,12,7,,12/5/2023 3:52pm,Response Received,Liza
+recCPXWQirLSqH4q8,karlet01-rh,I11-MON17:30-B,4,3,1,4,4,3,4,3,1,4,4,2,Response Received,17:30,I11,12,6,,12/5/2023 3:45pm,Response Received,Kiah
+recRvVZWwQzQt2nLL,rafdas01-rh,I10-THU16:15-A,4,4,4,4,2,4,4,2,4,4,2,4,Response Received,16:15,I10,12,9,,12/5/2023 3:43pm,Response Received,Liza
+recWntGlsVa8dgYxx,jakeva01-rh,I10-MON16:15-B,4,1,2,4,4,4,4,4,4,4,4,4,Response Received,16:15,I10,12,10,,12/5/2023 3:24pm,Response Received,Dan
+rec6YSK61FjT6hqiA,tawmug01-rh,B13-WED15:00-A,4,4,2,4,4,4,4,4,2,4,4,4,Response Received,15:00,B13,12,10,,12/5/2023 3:12pm,Response Received,Dieter
+recMfcAw4moPEHGar,chahic01-rh,A12-THU16:15-A,4,4,4,4,4,2,4,4,4,4,4,2,Response Received,16:15,A12,12,10,,12/5/2023 3:10pm,"Response Received, Response Received",Louise
+recCkKOnMvIeccBXi,baihic01-rh,I11-WED15:00-A,4,4,4,4,4,2,4,4,2,4,4,4,Response Received,15:00,I11,12,10,,12/5/2023 3:09pm,Response Received,Louise
+recbLD8du7iXqDw2h,samacr01-rh,A9-THU17:30-A,4,2,2,4,4,4,4,2,2,4,2,1,Response Received,17:30,A9,12,6,,12/5/2023 2:51pm,Response Received,Louise
+reccjoqHqTR9ZfYtK,amookp01-rh,B10-WED16:15-B,4,4,4,4,4,4,2,1,4,4,4,4,Response Received,16:15,B10,12,10,,12/5/2023 2:35pm,Response Received,Dieter
+rec90BFDd0os5xRcn,howsid01-rh,A12-THU17:30-A,4,4,4,4,4,3,3,2,1,4,4,1,Response Received,17:30,A12,12,7,,12/5/2023 2:14pm,Response Received,Jenna
+rec4pJmYaGM6QtDhN,lehada01-rh,B12-WED16:15-A,4,3,2,4,3,2,4,3,2,4,3,2,Response Received,16:15,B12,12,4,,12/5/2023 2:14pm,Response Received,Tiffany
+rec5gNzcesiH2rxnp,thomce01-rh,B10-MON16:15-B,4,2,1,4,2,1,4,2,1,4,2,1,Response Received,16:15,B10,12,4,,12/5/2023 2:10pm,Response Received,Dieter
+recfeQuymZ0dJ6mjp,jammce01-rh,A12-THU17:30-A,4,3,1,4,3,1,4,3,1,4,3,1,Response Received,17:30,A12,12,4,,12/5/2023 2:10pm,Response Received,Jenna
+recYWMwG5rBkB9BQi,jaydut01-rh,I11-TUE15:00-A,4,4,4,1,1,3,4,4,2,2,2,2,Response Received,15:00,I11,12,5,,12/5/2023 2:06pm,Response Received,Louise
+recSI5pUBw9dzQIym,dehhor01-rh,A11-WED16:15-A,2,1,3,2,1,3,2,1,3,2,1,3,Response Received,16:15,A11,12,0,,12/5/2023 2:03pm,Response Received,Selasie
+recoejUQtu1k0tueu,sifmkh01-rh,I12-TUE17:30-A,4,3,1,4,2,1,4,2,1,4,2,1,Response Received,17:30,I12,12,4,,12/5/2023 1:59pm,"Response Received, Response Received",Louise
+recPn6F6RxH6e0lJg,kenani01-rh,I10-MON16:15-B,2,1,1,4,4,4,4,4,4,4,4,4,Response Received,16:15,I10,12,9,,12/5/2023 1:43pm,Response Received,Dan
+recd8zidLK3xB6l9f,liasmi01-rh,I10-TUE16:15-A,4,4,4,1,1,1,2,2,4,1,2,4,Response Received,16:15,I10,12,5,,12/5/2023 1:38pm,Response Received,Liza
+recfJwWzMBoGdCR5q,johkru01-rh,A13-THU17:30-A,2,3,4,2,1,1,1,1,1,1,1,1,Response Received,17:30,A13,12,1,,12/5/2023 1:32pm,"Response Received, Response Received",Matthew
+recCkGPDZN798Qb5N,anjkru01-rh,A7-TUE17:30-A,2,3,4,1,1,1,1,1,1,1,1,1,Response Received,17:30,A7,12,1,,12/5/2023 1:31pm,Response Received,Dan
+recfJwWzMBoGdCR5q,johkru01-rh,A13-THU17:30-A,2,3,4,1,1,1,2,1,1,1,1,1,Response Received,17:30,A13,12,1,,12/5/2023 1:29pm,"Response Received, Response Received",Matthew
+recmbSPA6EHdr1I1D,kimvar01-rh,I13-WED16:15-A,4,4,4,4,4,4,1,1,4,4,4,4,Response Received,16:15,I13,12,10,,12/5/2023 1:29pm,Response Received,Jenna
+recA0IwZOIxc0ouGD,eetvar01-rh,,4,4,4,4,4,4,1,1,4,4,4,4,Response Received,#ERROR!,,12,10,,12/5/2023 1:28pm,Response Received,
+recuBqrQ53VmcFcxw,araell01-rh,B12-TUE17:30-A,3,1,2,3,1,2,4,4,4,4,4,4,Response Received,17:30,B12,12,6,,12/5/2023 1:28pm,Response Received,Jess
+rech4yHEnvXnyhxtL,tobkru01-rh,A8-TUE16:15-A,2,3,4,3,3,3,2,1,1,4,4,4,Response Received,16:15,A8,12,4,,12/5/2023 1:26pm,Response Received,Greg
+recPWES83Q4aZHe7q,benand01-rh,A8-THU17:30-A,4,4,4,4,4,4,4,4,4,4,4,1,Response Received,17:30,A8,12,11,,12/5/2023 1:07pm,Response Received,Greg
+recqNgDIHdHiEgk45,carfar01-rh,I12-MON17:30-A,4,3,1,4,4,4,4,4,4,4,4,4,Response Received,17:30,I12,12,10,,12/5/2023 1:06pm,Response Received,Julian
+rechOqzkAAQ1TAyBI,milpik01-rh,I9-WED17:30-A,1,1,1,3,3,3,3,3,3,4,4,4,Response Received,17:30,I9,12,3,,12/5/2023 1:02pm,"Response Received, Response Received",Joseph
+recDLd8Q2zJmzHlME,phibar01-rh,A9-MON17:30-A,2,2,2,2,2,2,2,2,2,2,2,2,Response Received,17:30,A9,12,0,,12/5/2023 1:00pm,Response Received,Vivienne
+recKVF370as9Jo3QD,ellcop01-rh,B10-MON16:15-A,3,1,4,3,1,4,4,4,4,3,1,4,Response Received,16:15,B10,12,6,,12/5/2023 12:51pm,Response Received,Christine
+rec9u5n1WeCZVAhBm,piedup01-rh,B10-THU17:30-A,4,3,2,4,3,1,4,3,1,4,3,1,Response Received,17:30,B10,12,4,,12/5/2023 12:50pm,Response Received,Christine
+recIqeLVhpwfkPxoy,zioapp01-rh,B13-THU16:15-A,4,4,4,4,4,2,4,2,3,4,1,4,Response Received,16:15,B13,12,8,,12/5/2023 12:50pm,Response Received,Christine
+recYbPrJpMYdBLHoT,brisch01-rh,A8-WED17:30-B,4,3,3,4,1,1,4,1,1,4,1,1,Response Received,17:30,A8,12,4,,12/5/2023 12:46pm,Response Received,Greg
+recVQe3PCn14mWXRu,juacro01-rh,A9-THU17:30-A,4,3,2,4,3,2,4,3,2,4,2,1,Response Received,17:30,A9,12,4,,12/5/2023 12:38pm,"Response Received, Response Received",Louise
+rec8ORsGdxQvw8IZy,monmat01-rh,B10-MON17:30-A,4,4,1,4,4,2,4,4,2,4,4,4,Response Received,17:30,B10,12,9,,12/5/2023 12:37pm,Response Received,Christine
+rec5Htlc1KHgMZKFa,liolow01-rh,I12-THU17:30-A,4,1,1,1,1,4,2,1,1,1,1,4,Response Received,17:30,I12,12,3,,12/5/2023 12:34pm,Response Received,Joseph
+recgTD1QCWsVfcXUH,lesmhl01-rh,A11-WED16:15-A,4,3,2,4,2,3,4,4,2,4,1,1,Response Received,16:15,A11,12,5,,12/5/2023 12:26pm,Response Received,Selasie
+recJAuT9NCkj9Mp5y,durste01-rh,A9-WED16:15-A,1,1,1,1,1,1,1,1,1,1,1,1,Response Received,16:15,A9,12,0,,12/5/2023 12:26pm,Response Received,Vivienne
+reccazFOeuZlJO5FE,vhukhw01-rh,I10-TUE16:15-A,3,4,4,2,1,1,2,4,4,2,1,1,Response Received,16:15,I10,12,4,,12/5/2023 12:23pm,Response Received,Liza
+recKynubar2jXCdZ4,iwavan01-rh,I9-THU16:15-A,4,4,4,1,4,4,4,4,4,1,4,4,Response Received,16:15,I9,12,10,,12/5/2023 12:20pm,Response Received,Hendrik
+reczJsytkUajUIJdo,rankhw01-rh,A8-TUE16:15-A,3,4,4,3,1,1,3,4,4,3,4,4,Response Received,16:15,A8,12,6,,12/5/2023 12:20pm,Response Received,Greg
+reciADsSaqykd4enO,luavan01-rh,B13-MON17:30-A,4,4,1,4,4,4,4,4,4,4,4,4,Response Received,17:30,B13,12,11,,12/5/2023 12:18pm,Response Received,Dieter
+recf9qjMovaC4gZZQ,lefsel01-rh,I8-MON17:30-B,1,2,3,1,2,3,1,2,3,1,2,3,Response Received,17:30,I8,12,0,,12/5/2023 12:14pm,Response Received,Louise
+recoejUQtu1k0tueu,sifmkh01-rh,I12-TUE17:30-A,4,2,2,4,2,2,4,2,2,4,2,2,Response Received,17:30,I12,12,4,,12/5/2023 12:07pm,"Response Received, Response Received",Louise
+reczBinaBPjaxdHFz,calpri01-rh,I12-WED16:15-B,3,1,2,3,1,2,3,1,2,3,1,2,Response Received,16:15,I12,12,0,,12/5/2023 12:03pm,"Response Received, Response Received",Louise
+recbfQO5p7jjydJe2,dhrdub01-rh,I10-WED16:15-A,3,1,3,4,4,4,4,1,4,4,2,4,Response Received,16:15,I10,12,7,,12/5/2023 11:57am,Response Received,David
+recIZn8r7LPc6VEEl,nurhas01-rh,A12-MON16:15-A,2,4,4,4,4,4,3,4,4,3,4,4,Response Received,16:15,A12,12,9,,12/5/2023 11:53am,Response Received,Imaan
+recUTQYcpfYcIdOiu,bragov01-rh,A10-THU17:30-A,4,2,3,4,2,3,4,2,3,4,2,3,Response Received,17:30,A10,12,4,,12/5/2023 11:50am,Response Received,Michael
+recPJquVfaekaHxxt,myrnai01-rh,A8-THU16:15-C,4,3,2,4,3,2,4,3,2,4,3,2,Response Received,16:15,A8,12,4,,12/5/2023 11:48am,Response Received,Jenna
+rec7WvMWigYLUHi9n,janbea01-rh,A10-MON17:30-A,4,4,1,4,4,4,4,4,1,4,4,1,Response Received,17:30,A10,12,9,,12/5/2023 11:45am,Response Received,Matthew
+recuZojHdH14pg0hd,maschi01-rh,A8-THU17:30-A,4,1,1,4,1,1,4,1,1,4,1,1,Response Received,17:30,A8,12,4,,12/5/2023 11:45am,Response Received,Greg
+recnSb1Ph2fF3K06s,logrob01-rh,B13-TUE16:15-A,1,1,1,3,2,1,3,2,1,3,2,1,Response Received,16:15,B13,12,0,,12/5/2023 11:44am,Response Received,Dieter
+recWQuyRlKnKIMP1X,angbar01-rh,B12-TUE17:30-A,4,3,1,4,3,1,4,3,1,4,3,1,Response Received,17:30,B12,12,4,,12/5/2023 11:42am,Response Received,Jess
+rec6GklEONPj6NoFO,katmol01-rh,A8-MON17:30-A,4,3,2,4,3,2,4,3,2,4,3,1,Response Received,17:30,A8,12,4,,12/5/2023 11:42am,Response Received,Michael
+recn5GXpREg6RMQdC,liapre01-rh,B12-WED17:30-A,4,2,1,4,2,1,4,3,1,4,2,1,Response Received,17:30,B12,12,4,,12/5/2023 11:42am,Response Received,Bilqees
+rec4cghlKYSuRyOLe,thodow01-rh,B12-TUE16:15-A,4,2,3,4,1,3,4,4,4,4,4,4,Response Received,16:15,B12,12,8,,12/5/2023 11:39am,"Response Received, Response Received",Kiah
+recZLnbdCe6xoloaM,julvis01-rh,I13-WED16:15-A,3,2,1,3,2,1,2,2,1,2,2,1,Response Received,16:15,I13,12,0,,12/5/2023 11:36am,Response Received,Jenna
+reciQrC0AJX4FRHAA,miebar01-rh,B11-THU16:15-A,4,4,4,4,4,4,4,4,4,4,1,1,Response Received,16:15,B11,12,10,,12/5/2023 11:35am,Response Received,Tiffany
+recJfC659sWKrCatc,lwamth01-rh,I11-MON17:30-A,4,2,1,4,2,1,4,2,1,4,2,1,Response Received,17:30,I11,12,4,,12/5/2023 11:26am,"Response Received, Response Received",Dan
+recAm62lDW7Vr2K0O,nkonxu01-rh,I10-THU16:15-A,4,4,2,4,4,2,4,4,4,4,1,1,Response Received,16:15,I10,12,8,,12/5/2023 11:26am,Response Received,Liza
+recuyS1xeazPbL5nJ,jadmat01-rh,B11-THU17:30-B,2,2,2,1,1,1,1,1,1,3,3,3,Response Received,17:30,B11,12,0,,12/5/2023 11:25am,Response Received,Dieter
+reczjLw1V5iqhzfWu,kayhen01-rh,I10-THU16:15-B,2,2,4,4,4,4,4,4,4,2,2,4,Response Received,16:15,I10,12,8,,12/5/2023 11:25am,Response Received,Miche
+recXQX2lt4znZVom4,ayefak01-rh,B11-WED17:30-A,4,4,4,4,4,4,3,2,1,4,4,4,Response Received,17:30,B11,12,9,,12/5/2023 11:24am,Response Received,Kiah
+reclG6j5aLespphZZ,nicboe01-rh,B12-THU16:15-A,4,4,3,1,1,2,4,4,3,1,1,2,Response Received,16:15,B12,12,4,,12/5/2023 11:21am,Response Received,Kiah
+recFFfUy9gB7nAkmF,johbar01-rh,I12-WED16:15-B,4,3,4,4,3,4,2,3,4,2,3,4,Response Received,16:15,I12,12,6,,12/5/2023 11:20am,"Response Received, Response Received",Louise
+recO109oAgDjgahci,reyhey01-rh,A8-WED17:30-B,4,4,4,4,2,1,4,2,1,4,3,1,Response Received,17:30,A8,12,6,,12/5/2023 11:19am,Response Received,Greg
+rec3kIaRMjy4fbk7d,stemos01-rh,A8-THU16:15-C,1,1,1,4,4,1,4,3,1,1,1,1,Response Received,16:15,A8,12,3,,12/5/2023 11:19am,"Response Received, Response Received",Jenna
+recuJnKSCfAoxPq0g,brebar01-rh,A8-THU16:15-B,4,1,3,4,1,3,4,1,3,4,1,3,Response Received,16:15,A8,12,4,,12/5/2023 11:16am,Response Received,Selasie
+recusAbHZ2bouI1Bh,matjoh02-rh,B10-TUE16:15-A,4,4,4,4,4,1,4,4,4,4,4,4,Response Received,16:15,B10,12,11,,12/5/2023 11:16am,"Response Received, Response Received, Response Received",Tiffany
+recusAbHZ2bouI1Bh,matjoh02-rh,B10-TUE16:15-A,4,4,4,4,4,1,4,4,4,4,4,4,Response Received,16:15,B10,12,11,,12/5/2023 11:15am,"Response Received, Response Received, Response Received",Tiffany
+rec7FU68OWcNhJr3g,lukmoo01-rh,A11-WED16:15-A,4,4,4,4,4,4,1,4,4,1,4,4,Response Received,16:15,A11,12,10,,12/5/2023 11:15am,"Response Received, Response Received",Selasie
+recRQtjsTHiPJxsaq,gabjoh01-rh,B10-THU15:00-A,4,4,4,4,4,1,4,4,4,4,4,4,Response Received,15:00,B10,12,11,,12/5/2023 11:14am,"Response Received, Response Received",Dieter
+reczqk65VubUl6ZWw,nrsal01-rh,B10-WED16:15-A,4,2,3,4,2,3,4,1,3,4,2,3,Response Received,16:15,B10,12,4,,12/5/2023 11:14am,Response Received,Miche
+recDymTQpeOIe4W5g,eesbac01-rh,B12-THU16:15-A,3,1,4,3,1,4,3,1,4,3,1,4,Response Received,16:15,B12,12,4,,12/5/2023 11:13am,Response Received,Kiah
+recc12v0ACmLqw5XL,chimem01-rh,A11-THU16:15-A,4,4,4,4,4,3,4,4,4,4,1,3,Response Received,16:15,A11,12,9,,12/5/2023 11:12am,Response Received,Matthew
+rec9sJNzpWZzxxSXL,johthe01-rh,I10-TUE16:15-A,4,1,1,4,1,1,4,1,1,4,1,1,Response Received,16:15,I10,12,4,,12/5/2023 11:11am,Response Received,Liza
+recoPm8madu1dv09d,cildom01-rh,I12-WED16:15-A,4,4,4,3,1,3,1,1,3,2,2,3,Response Received,16:15,I12,12,3,,12/5/2023 11:10am,Response Received,Joseph
+recrk0SaMQ0EG98Vb,dakmda01-rh,I10-WED16:15-A,4,3,3,4,1,3,4,1,3,4,1,3,Response Received,16:15,I10,12,4,,12/5/2023 11:09am,Response Received,David
+recu9Q35VEtdlUHsM,leodeb01-rh,A7-WED17:30-A,4,4,2,4,4,3,4,4,3,4,4,2,Response Received,17:30,A7,12,8,,12/5/2023 11:06am,Response Received,Michael
+recD928tLUFS9E09g,kgamao01-rh,A8-TUE15:00-A,1,1,2,2,1,2,2,1,2,1,1,2,Response Received,15:00,A8,12,0,,12/5/2023 11:06am,Response Received,Greg
+recMnwIIgh815oKqq,jacarg01-rh,I10-WED15:00-A,1,1,3,1,1,3,1,1,3,4,4,4,Response Received,15:00,I10,12,3,,12/5/2023 11:06am,Response Received,Liza
+recuc8cds08EvIAnF,catblo01-rh,B10-MON16:15-B,4,1,3,4,4,4,4,1,3,4,4,4,Response Received,16:15,B10,12,8,,12/5/2023 11:04am,Response Received,Dieter
+recaCacb6qJeHa5yR,antdut01-rh,I13-THU17:30-A,4,3,3,4,1,2,4,3,3,4,1,2,Response Received,17:30,I13,12,4,,12/5/2023 11:04am,Response Received,Dan
+recqxfI8qmASnwhkQ,devtul01-rh,A8-TUE17:30-A,4,4,4,4,4,4,4,4,4,4,4,2,Response Received,17:30,A8,12,11,,12/5/2023 11:03am,Response Received,Michael
+recKCqJFEgrI6K0Ax,shafra01-rh,A12-TUE16:15-A,2,2,4,1,2,4,2,2,4,2,2,4,Response Received,16:15,A12,12,4,,12/5/2023 11:03am,Response Received,David
+recLycxGXQlLq5cBc,ottmul01-rh,B11-THU16:15-A,2,2,3,4,2,2,3,2,2,3,2,2,Response Received,16:15,B11,12,1,,12/5/2023 11:00am,Response Received,Tiffany
+rec2XzTQXkxwtbXBe,gqwson01-rh,B12-TUE17:30-A,4,4,2,4,4,2,4,4,3,4,4,3,Response Received,17:30,B12,12,8,,12/5/2023 10:59am,Response Received,Jess
+recVp8jb7oZf0gwDx,mathoe01-rh,I11-WED15:00-A,4,4,3,1,1,3,1,1,3,4,4,3,Response Received,15:00,I11,12,4,,12/5/2023 10:58am,Response Received,Louise
+rec7QeJeJySUrSsao,wilsha01-rh,I8-MON17:30-A,4,2,2,4,4,4,4,2,2,4,2,4,Response Received,17:30,I8,12,7,,12/5/2023 10:58am,Response Received,Joseph
+recIrWT2sgGBy6sLu,tumphi01-rh,A8-TUE17:30-B,4,3,2,4,3,1,4,3,3,4,3,2,Response Received,17:30,A8,12,4,,12/5/2023 10:58am,Response Received,Greg
+rec1khCqw7f1p4jQL,kelhec01-rh,B10-TUE17:30-B,4,4,4,4,1,4,4,2,4,4,2,4,Response Received,17:30,B10,12,9,,12/5/2023 10:57am,Response Received,Miche
+recqSXsZGmOMuVapA,dealer01-rh,A12-MON16:15-A,4,4,4,4,4,4,1,4,4,4,4,4,Response Received,16:15,A12,12,11,,12/5/2023 10:57am,Response Received,Imaan
+recnhpnzvsf1ys6nj,tylvel01-rh,A10-WED17:30-B,4,3,2,4,3,2,4,3,2,4,4,4,Response Received,17:30,A10,12,6,,12/5/2023 10:57am,Response Received,Vivienne
+recmmgRKpK95aHNbj,dansha01-rh,A8-TUE17:30-B,4,2,2,4,2,4,4,2,2,4,2,4,Response Received,17:30,A8,12,6,,12/5/2023 10:57am,Response Received,Greg
+rec5qeHib9Y9acm6H,emmmul01-rh,I10-MON17:30-A,3,1,2,4,2,3,3,3,3,3,2,2,Response Received,17:30,I10,12,1,,12/5/2023 10:56am,Response Received,Miche
+recLIxCZ5lhRQjYRA,reehec01-rh,I9-MON16:15-A,4,1,4,4,4,4,4,2,4,4,2,4,Response Received,16:15,I9,12,9,,12/5/2023 10:56am,Response Received,Joseph
+recOIoMBQJmQ8cuGw,bevhar01-rh,B11-THU17:30-A,3,1,1,3,1,1,3,1,1,3,1,1,Response Received,17:30,B11,12,0,,12/5/2023 10:56am,Response Received,Kiah
+recP5EQMLio4j4tXW,harauc01-rh,B13-THU16:15-A,3,4,4,3,1,4,3,4,4,3,1,4,Response Received,16:15,B13,12,6,,12/5/2023 10:55am,Response Received,Christine
+recpUII8UBStkYWE5,mukkeo01-rh,A12-TUE17:30-A,4,4,1,4,4,3,4,4,1,4,4,3,Response Received,17:30,A12,12,8,,12/5/2023 10:55am,Response Received,Matthew
+recrriS8foqOQw9qw,sadmyn01-rh,I11-MON17:30-A,4,3,1,4,3,1,4,4,4,4,3,4,Response Received,17:30,I11,12,7,,12/5/2023 10:55am,Response Received,Dan
+rec4VenPNvedNLwNI,kylhur01-rh,I10-WED16:15-A,4,4,4,4,1,4,4,2,4,4,4,4,Response Received,16:15,I10,12,10,,12/5/2023 10:54am,Response Received,David
+recqKYENwkfVPxVZP,veneed01-rh,A9-MON17:30-A,4,4,4,4,2,1,4,2,1,4,4,4,Response Received,17:30,A9,12,8,,12/5/2023 10:54am,Response Received,Vivienne
+recgocfxBsyuhD6z1,reygeo01-rh,A8-TUE17:30-A,4,4,3,4,4,1,4,4,2,4,4,2,Response Received,17:30,A8,12,8,,12/5/2023 10:53am,Response Received,Michael
+recqwVcGZ5C8zksUn,ammpoo01-rh,A10-THU15:00-A,2,2,4,2,2,4,2,2,4,2,2,4,Response Received,15:00,A10,12,4,,12/5/2023 10:53am,Response Received,Greg
+recaPi2Feu3bsxh3t,jenmye01-rh,A12-TUE16:15-A,4,1,3,4,1,2,1,2,3,4,4,4,Response Received,16:15,A12,12,5,,12/5/2023 10:52am,Response Received,David
+recnhDH98wz3cC6aw,nsimth01-rh,I11-MON17:30-A,4,4,4,4,4,1,4,4,2,4,4,3,Response Received,17:30,I11,12,9,,12/5/2023 10:52am,Response Received,Dan
+recQSHSI7fHXVI49F,benllo01-rh,A7-TUE17:30-B,2,1,1,4,4,2,4,4,2,4,4,2,Response Received,17:30,A7,12,6,,12/5/2023 10:46am,Response Received,Jenna
+rec9gaNDAitrB6ruX,phoott01-rh,A8-THU16:15-B,4,4,4,2,2,2,4,4,4,1,2,3,Response Received,16:15,A8,12,6,,12/5/2023 10:41am,Response Received,Selasie
+rec8xMMTeV35sjvpA,liader01-rh,A10-THU17:30-A,4,2,3,4,2,3,4,1,3,4,2,3,Response Received,17:30,A10,12,4,,12/5/2023 10:40am,Response Received,Michael
+recRFjeVjU98ypgRC,dylche01-rh,A8-WED17:30-B,4,4,4,4,4,3,4,4,1,4,4,3,Response Received,17:30,A8,12,9,,12/5/2023 10:40am,Response Received,Greg
+rec9D7xeSHFiMNKL7,lyrtay01-rh,A10-TUE16:15-A,4,4,4,2,1,1,2,2,1,4,4,4,Response Received,16:15,A10,12,6,,12/5/2023 10:39am,Response Received,Matthew
+recqzgf2W2IzMP5h0,damdup01-rh,I8-MON16:15-A,3,1,2,3,1,2,3,1,2,3,1,2,Response Received,16:15,I8,12,0,,12/5/2023 10:39am,Response Received,Liza
+recoI03ocw1OGsvnC,racdon01-rh,A11-MON16:15-A,1,2,4,4,4,4,1,2,4,1,2,4,Response Received,16:15,A11,12,6,,12/5/2023 10:38am,Response Received,Selasie
+recXBUwZxLXlqYEil,iravat01-rh,P12-MON17:30-A,4,4,1,4,4,4,4,4,4,4,4,3,Response Received,17:30,P12,12,10,,12/5/2023 10:32am,Response Received,Bilqees
+rec0AvU2kSpIFpKnE,mohmoc01-rh,I11-WED17:30-A,4,4,4,4,4,4,4,4,1,4,4,3,Response Received,17:30,I11,12,10,,12/5/2023 10:32am,Response Received,Dan
+recbLFEvSeJSFpWyL,daebha01-rh,I12-WED16:15-A,4,2,3,4,2,3,4,2,4,4,2,3,Response Received,16:15,I12,12,5,,12/5/2023 10:31am,Response Received,Joseph
+recOS130DqSy9r3JW,erivol01-rh,I11-WED15:00-A,3,3,3,1,1,1,3,3,3,1,1,1,Response Received,15:00,I11,12,0,,12/5/2023 10:29am,Response Received,Louise
+recTE6QPpr9MwyCAa,lavsar01-rh,I10-THU16:15-A,4,3,1,4,3,1,4,3,1,4,3,1,Response Received,16:15,I10,12,4,,12/5/2023 10:28am,Response Received,Liza
+rec3kIaRMjy4fbk7d,stemos01-rh,A8-THU16:15-C,1,1,1,4,4,1,4,3,1,1,1,1,Response Received,16:15,A8,12,3,,12/5/2023 10:27am,"Response Received, Response Received",Jenna
+rec3iNN9UPQCL9TI8,liropp01-rh,I8-THU15:00-A,4,4,4,4,4,4,4,4,4,1,4,4,Response Received,15:00,I8,12,11,,12/5/2023 10:25am,"Response Received, Response Received",Liza
+recNfcSMtixfKkYlh,judwhi01-rh,B12-WED17:30-A,4,4,2,4,4,2,4,4,2,4,4,3,Response Received,17:30,B12,12,8,,12/5/2023 10:24am,Response Received,Bilqees
+rec3iNN9UPQCL9TI8,liropp01-rh,I8-THU15:00-A,4,4,4,4,4,4,4,4,4,1,4,4,Response Received,15:00,I8,12,11,,12/5/2023 10:23am,"Response Received, Response Received",Liza
+reclQQR2PxOs8hGyA,stesal01-rh,P12-MON17:30-A,4,1,1,4,1,1,4,1,1,2,3,3,Response Received,17:30,P12,12,3,,12/5/2023 10:21am,Response Received,Bilqees
+recEzbgnXFToHPVEg,taorob01-rh,I8-MON17:30-A,4,3,1,4,3,1,4,3,1,4,3,2,Response Received,17:30,I8,12,4,,12/5/2023 10:20am,Response Received,Joseph
+recL7hqDGLtmDEnqW,vedsal01-rh,I10-TUE16:15-A,4,2,1,4,2,1,4,2,1,4,2,4,Response Received,16:15,I10,12,5,,12/5/2023 10:19am,Response Received,Liza
+rec1QDOvgKR2Y3xoi,miasal01-rh,I10-THU16:15-A,4,4,4,4,4,4,4,4,1,4,2,1,Response Received,16:15,I10,12,9,,12/5/2023 10:18am,Response Received,Liza
+recnUkxXcO9KsguD6,linyam01-rh,I13-THU17:30-A,2,4,1,2,4,1,3,3,1,3,4,1,Response Received,17:30,I13,12,3,,12/5/2023 10:17am,Response Received,Dan
+recQelLukzbdzu8Of,ratdib01-rh,B13-THU16:15-A,3,2,1,3,2,1,3,1,1,3,1,1,Response Received,16:15,B13,12,0,,12/5/2023 10:17am,Response Received,Christine
+recSSXEZxmG8mBCMF,aardol01-rh,A11-TUE16:15-A,4,2,2,4,1,1,4,4,4,4,1,1,Response Received,16:15,A11,12,6,,12/5/2023 10:16am,Response Received,Selasie
+rec6mRuD5DXHqBEit,krivil01-rh,B12-TUE16:15-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,16:15,B12,12,8,,12/5/2023 10:14am,Response Received,Kiah
+recun7y76UKJvKB2q,noakaw01-rh,A12-MON17:30-A,4,4,1,3,3,3,4,4,4,4,4,4,Response Received,17:30,A12,12,8,,12/5/2023 10:14am,Response Received,Greg
+recfwhHhCfMBO9CHB,chrlie01-rh,A11-THU16:15-A,4,4,4,4,4,2,4,2,2,4,2,2,Response Received,16:15,A11,12,7,,12/5/2023 10:13am,Response Received,Matthew
+recWd0CrO9X7dyf8j,benvil01-rh,I9-TUE17:30-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,17:30,I9,12,8,,12/5/2023 10:13am,Response Received,David
+rece6sfLnfj94eXaR,janmar01-rh,A8-TUE15:00-A,2,4,4,1,4,4,1,4,4,3,4,4,Response Received,15:00,A8,12,8,,12/5/2023 10:13am,"Response Received, Response Received",Greg
+recCTCGyYErAJDM7V,josdut01-rh,A8-TUE17:30-A,4,4,4,4,4,1,4,4,1,4,4,1,Response Received,17:30,A8,12,9,,12/5/2023 9:55am,Response Received,Michael
+recFblKX99xHjcJCt,johcol01-rh,B12-WED16:15-A,3,1,4,3,1,4,3,1,4,3,1,4,Response Received,16:15,B12,12,4,,12/5/2023 9:47am,Response Received,Tiffany
+recvoQloDLliy9mKc,findeb01-rh,A13-THU17:30-A,3,2,2,3,2,2,4,4,2,3,2,2,Response Received,17:30,A13,12,2,,12/5/2023 9:45am,Response Received,Matthew
+recPxN1sQzUg9JtDj,schvan01-rh,B10-TUE16:15-A,4,4,4,4,1,2,4,4,4,4,4,4,Response Received,16:15,B10,12,10,,12/5/2023 9:17am,Response Received,Tiffany
+rec8CP3Cy2sgQrfhv,chrmoo01-rh,A8-MON17:30-A,4,4,1,4,4,4,4,4,2,4,2,2,Response Received,17:30,A8,12,8,,12/5/2023 9:16am,Response Received,Michael
+rec3dukWBVNX4J1BP,emmhee01-rh,A12-TUE16:15-A,4,4,3,4,4,3,4,1,3,4,4,3,Response Received,16:15,A12,12,7,,12/5/2023 9:02am,Response Received,David
+recprZh1aLE5NQiW0,farwhe01-rh,A8-MON17:30-A,4,4,1,4,4,3,4,4,1,4,4,3,Response Received,17:30,A8,12,8,,12/5/2023 8:55am,Response Received,Michael
+recgAoUPc2f06OGM7,racvan01-rh,A12-TUE16:15-A,4,4,4,3,1,4,3,2,4,3,1,4,Response Received,16:15,A12,12,6,,12/5/2023 8:47am,Response Received,David
+rec59QAapRw8ErFTV,megvan01-rh,A8-TUE16:15-A,4,4,4,3,1,4,3,2,4,3,1,4,Response Received,16:15,A8,12,6,,12/5/2023 8:46am,Response Received,Greg
+recTAofIjKM1GUOkt,debnye01-rh,B12-WED17:30-A,4,4,2,4,4,2,4,4,2,4,4,2,Response Received,17:30,B12,12,8,,12/5/2023 8:38am,Response Received,Bilqees
+reco5d9OrH5kek38O,tiaklo01-rh,A9-WED16:15-A,2,1,1,4,4,3,2,1,1,4,4,4,Response Received,16:15,A9,12,5,,12/5/2023 8:20am,Response Received,Vivienne
+recnymkXyZ2hudUEs,janapp01-rh,A10-WED16:15-A,4,4,4,3,2,1,4,1,1,4,2,1,Response Received,16:15,A10,12,5,,12/5/2023 8:07am,Response Received,Greg
+rec225REfdUKOnzA3,trinel01-rh,I13-TUE16:15-A,2,2,3,2,2,3,2,3,3,2,2,3,Response Received,16:15,I13,12,0,,12/5/2023 8:01am,Response Received,Jenna
+recBQvFhEm2ODHvLJ,talmat01-rh,B10-TUE17:30-B,2,2,1,2,2,1,2,2,1,2,2,1,Response Received,17:30,B10,12,0,,12/5/2023 7:40am,Response Received,Miche
+recfbF61Af4zkJGd0,natswa01-rh,A8-THU16:15-A,4,4,3,4,4,4,4,4,2,2,2,2,Response Received,16:15,A8,12,7,,12/5/2023 7:14am,Response Received,Greg
+recsme8LlSH0nSCAe,tylbri01-rh,A7-TUE17:30-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,17:30,A7,12,8,,12/5/2023 7:12am,Response Received,Dan
+recdfdF4rmRuhgvgn,ebevan01-rh,A9-WED16:15-A,2,2,2,1,1,1,2,2,2,2,2,2,Response Received,16:15,A9,12,0,,12/5/2023 6:37am,"Response Received, Response Received",Vivienne
+recdfdF4rmRuhgvgn,ebevan01-rh,A9-WED16:15-A,2,1,1,2,1,1,2,1,1,2,1,1,Response Received,16:15,A9,12,0,,12/5/2023 6:34am,"Response Received, Response Received",Vivienne
+recrhcdIn7TRPQ4Qn,annvon01-rh,I12-MON17:30-A,2,1,1,4,4,4,2,2,4,4,4,4,Response Received,17:30,I12,12,7,,12/5/2023 6:00am,Response Received,Julian
+reca3OiBJ6rS3KgSr,tauvon01-rh,B10-WED16:15-A,2,1,1,4,4,4,2,2,4,4,4,4,Response Received,16:15,B10,12,7,,12/5/2023 5:58am,Response Received,Miche
+recrVOaw6tFbFbTw1,zarnai01-rh,I10-MON16:15-B,4,1,3,4,4,4,4,4,4,4,4,4,Response Received,16:15,I10,12,10,,12/5/2023 5:22am,Response Received,Dan
+recRBltanQg3LMDe8,danhof01-rh,B12-WED17:30-A,4,4,4,4,4,4,4,4,1,4,4,4,Response Received,17:30,B12,12,11,,12/5/2023 5:19am,Response Received,Bilqees
+recEcE2jnIMTWl8Qk,annmoc01-rh,P13-TUE17:30-A,4,1,1,4,1,1,4,4,1,4,1,1,Response Received,17:30,P13,12,5,,12/5/2023 5:06am,Response Received,Bilqees
+recL4frx3AiXhxnZh,adrmoc01-rh,I11-TUE16:15-A,4,2,2,4,2,1,4,2,1,4,1,1,Response Received,16:15,I11,12,4,,12/5/2023 5:04am,Response Received,Louise
+recaVH5dcdzTEzMim,rhybuc01-rh,I10-WED16:15-A,4,2,4,4,2,4,4,1,4,4,2,4,Response Received,16:15,I10,12,8,,12/5/2023 4:38am,Response Received,David
+rec7sYoRzGEoOBexi,meltsi01-rh,A9-TUE17:30-A,4,4,3,4,4,1,4,4,4,4,4,1,Response Received,17:30,A9,12,9,,12/4/2023 9:47pm,Response Received,Vivienne
+recQjWKCmy312Ho8K,jernou01-rh,B10-THU15:00-A,4,4,2,4,4,4,4,4,3,1,4,4,Response Received,15:00,B10,12,9,,12/4/2023 9:30pm,Response Received,Dieter
+recaIw2aY6xZftguo,danmba01-rh,I13-THU15:00-A,4,4,4,4,4,4,2,2,2,1,1,1,Response Received,15:00,I13,12,6,,12/4/2023 9:14pm,Response Received,Louise
+recLeTX0lFlwjv7BJ,asamba01-rh,A11-TUE16:15-A,4,4,1,1,4,4,4,2,2,4,4,4,Response Received,16:15,A11,12,8,,12/4/2023 9:11pm,Response Received,Selasie
+recgBGtg3lQCoaE3K,aidhua01-rh,I12-TUE17:30-A,4,4,1,2,2,1,4,2,1,3,2,1,Response Received,17:30,I12,12,3,,12/4/2023 8:47pm,Response Received,Louise
+recdj2ZrUlCUM9mMq,tatkre01-rh,I11-MON17:30-B,3,2,1,3,2,2,3,2,4,3,4,4,Response Received,17:30,I11,12,3,,12/4/2023 8:46pm,Response Received,Kiah
+recZFpMtcKs3wWTeg,thepad01-rh,I10-MON17:30-A,4,4,1,4,3,4,4,4,3,1,4,4,Response Received,17:30,I10,12,8,,12/4/2023 8:27pm,Response Received,Miche
+rec7nyylCJhtUPQKd,nyimhl01-rh,A13-WED17:30-A,4,3,1,4,3,1,3,2,1,4,3,1,Response Received,17:30,A13,12,3,,12/4/2023 8:26pm,Response Received,Jenna
+recKBDSfbwNdUn6KC,ikegro01-rh,A11-TUE17:30-A,2,3,3,2,2,2,4,4,2,4,4,4,Response Received,17:30,A11,12,5,,12/4/2023 8:17pm,Response Received,Imaan
+recRNIr3ORofzga3N,liamei01-rh,A8-TUE15:00-A,4,4,2,1,4,4,4,4,2,2,2,1,Response Received,15:00,A8,12,6,,12/4/2023 8:10pm,Response Received,Greg
+recioUL282O7tBXrK,olipra01-rh,A8-THU16:15-A,2,1,4,2,1,4,2,1,4,2,1,4,Response Received,16:15,A8,12,4,,12/4/2023 8:06pm,Response Received,Greg
+recjWB3S09I7s3X6D,veepil01-rh,A12-THU17:30-B,3,2,2,3,2,2,3,2,2,3,2,2,Response Received,17:30,A12,12,0,,12/4/2023 8:05pm,Response Received,David
+recw7BMdkj3utJuF2,sipmhl01-rh,I9-MON16:15-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,16:15,I9,12,8,,12/4/2023 7:37pm,Response Received,Joseph
+recOpA9e0ndb7fcjR,dedbea01-rh,A10-MON17:30-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,17:30,A10,12,8,,12/4/2023 6:39pm,Response Received,Matthew
+rec7JTtIZxndxgAxb,wuvsha01-rh,B12-TUE17:30-A,4,3,2,4,3,2,4,3,2,4,3,2,Response Received,17:30,B12,12,4,,12/4/2023 6:31pm,Response Received,Jess
+recUWXvmUPl5fE4Kw,tiimoa01-rh,B12-WED16:15-A,3,2,1,4,4,4,3,2,1,4,4,4,Response Received,16:15,B12,12,6,,12/4/2023 6:24pm,Response Received,Tiffany
+recRVvztuL4j1cp0a,mosmoa01-rh,I12-WED16:15-B,3,2,1,4,4,4,3,2,1,4,4,4,Response Received,16:15,I12,12,6,,12/4/2023 6:22pm,Response Received,Louise
+recl64z68PiRmciYO,ntsmth01-rh,A8-THU16:15-A,4,4,4,4,4,4,4,4,4,3,1,2,Response Received,16:15,A8,12,9,,12/4/2023 6:09pm,Response Received,Greg
+rec8DMIMc4vKUff5b,sirpad01-rh,I12-THU17:30-A,4,4,3,4,4,1,4,4,3,4,4,1,Response Received,17:30,I12,12,8,,12/4/2023 6:02pm,Response Received,Joseph
+recEvA9gRfwOGnTMR,arnvan01-rh,I11-TUE15:00-A,2,3,3,1,3,3,1,3,3,2,3,3,Response Received,15:00,I11,12,0,,12/4/2023 5:54pm,Response Received,Louise
+rec62bXciDyB8uLzv,alelam01-rh,B10-THU15:00-A,3,4,4,1,4,4,1,4,4,2,4,4,Response Received,15:00,B10,12,8,,12/4/2023 5:53pm,Response Received,Dieter
+recRwn5FczgNXdwjj,jesbas01-rh,A7-TUE17:30-A,4,4,4,4,4,2,4,4,2,4,4,2,Response Received,17:30,A7,12,9,,12/4/2023 5:49pm,"Response Received, Response Received",Dan
+recRwn5FczgNXdwjj,jesbas01-rh,A7-TUE17:30-A,4,4,2,4,4,2,4,4,2,4,4,2,Response Received,17:30,A7,12,8,,12/4/2023 5:48pm,"Response Received, Response Received",Dan
+recufucdxVDk2Qi2i,gaukis01-rh,A10-MON17:30-A,4,4,1,4,4,4,4,4,2,4,4,2,Response Received,17:30,A10,12,9,,12/4/2023 5:38pm,Response Received,Matthew
+recGGsc0zFJ0PsaCy,cyrste02-rh,A8-THU16:15-B,4,4,4,4,4,4,4,4,4,4,1,4,Response Received,16:15,A8,12,11,,12/4/2023 5:30pm,Response Received,Selasie
+reckMr79o4xgcr1Vw,lwafut01-rh,I9-THU16:15-A,4,1,1,2,1,2,3,2,2,3,2,2,Response Received,16:15,I9,12,1,,12/4/2023 5:26pm,Response Received,Hendrik
+receP8mKmSaXxzDuz,inawhe01-rh,I11-WED17:30-A,3,1,2,4,4,2,4,2,1,4,4,2,Response Received,17:30,I11,12,5,,12/4/2023 5:03pm,Response Received,Dan
+recdMuqpWkSQyrPUk,sarnai02-rh,A12-MON16:15-A,1,2,3,1,1,3,1,2,3,3,3,3,Response Received,16:15,A12,12,0,,12/4/2023 5:02pm,Response Received,Imaan
+recbfrq9pHPXaGSJU,fervan01-rh,A8-THU16:15-A,3,2,4,3,2,4,3,2,4,3,2,4,Response Received,16:15,A8,12,4,,12/4/2023 4:53pm,Response Received,Greg
+rec0thHD9zoNusmZX,phacel01-rh,A12-MON17:30-B,1,4,4,1,4,4,1,4,4,4,4,4,Response Received,17:30,A12,12,9,,12/4/2023 4:38pm,Response Received,David
+reclSaX12XbH4ZkG8,yoamun01-rh,I13-THU17:30-A,4,2,1,4,2,1,4,2,1,4,2,1,Response Received,17:30,I13,12,4,,12/4/2023 4:32pm,Response Received,Dan
+recRpJFmRfcPz3kQg,yasbac01-rh,B12-THU16:15-A,3,1,4,3,1,4,3,1,4,3,1,4,Response Received,16:15,B12,12,4,,12/4/2023 4:24pm,Response Received,Kiah
+recqaJS7zNaVGCoZ1,lihfou01-rh,B10-TUE15:00-A,4,4,4,1,3,4,4,4,4,2,3,4,Response Received,15:00,B10,12,8,,12/4/2023 4:23pm,Response Received,Dieter
+recX5uXvzve2CDgsj,wasmbe01-rh,B10-THU17:30-A,4,3,2,4,3,2,4,3,2,4,3,2,Response Received,17:30,B10,12,4,,12/4/2023 4:19pm,Response Received,Christine
+recumfEvieihE6EiP,torche01-rh,B10-MON16:15-B,4,2,3,4,2,3,4,2,3,4,2,3,Response Received,16:15,B10,12,4,,12/4/2023 3:59pm,Response Received,Dieter
+recBJxS2WhOXr4Emg,aledas01-rh,A8-TUE16:15-A,3,2,4,4,2,4,4,3,4,4,4,4,Response Received,16:15,A8,12,8,,12/4/2023 3:58pm,Response Received,Greg
+reczlhem2F0Hs30gw,nhlngh01-rh,I11-TUE16:15-A,3,1,1,3,1,1,3,1,1,3,2,2,Response Received,16:15,I11,12,0,,12/4/2023 3:48pm,Response Received,Louise
+recxKy35JEZ3j3ny1,lwangh01-rh,I8-MON17:30-B,3,1,1,3,1,1,3,1,1,3,2,2,Response Received,17:30,I8,12,0,,12/4/2023 3:47pm,Response Received,Louise
+recOpeDfbkJcxuXZJ,tanlou01-rh,A10-TUE16:15-B,4,4,4,1,2,3,1,2,3,4,4,4,Response Received,16:15,A10,12,6,,12/4/2023 3:19pm,Response Received,Michael
+reccODXXjSTSxTpg6,chrbou01-rh,B13-MON17:30-A,3,1,1,4,4,4,4,4,4,4,4,3,Response Received,17:30,B13,12,8,,12/4/2023 3:16pm,Response Received,Dieter
+recGc7EFsDqh05ziS,aropoo01-rh,A12-TUE16:15-A,2,3,4,2,3,4,2,3,4,2,3,4,Response Received,16:15,A12,12,4,,12/4/2023 3:14pm,Response Received,David
+recKIaaGH8lP0G9hr,marnth01-rh,I12-WED16:15-A,2,3,2,2,3,2,2,3,2,2,3,2,Response Received,16:15,I12,12,0,,12/4/2023 3:13pm,Response Received,Joseph
+recPdXIOiaEGsUKke,elmbot01-rh,B11-THU17:30-B,4,2,1,4,4,2,4,4,4,4,4,4,Response Received,17:30,B11,12,9,,12/4/2023 3:05pm,Response Received,Dieter
+recJGCXjpV2jxZC9y,ethdal01-rh,A11-TUE16:15-A,1,1,4,4,3,4,1,1,4,4,4,4,Response Received,16:15,A11,12,7,,12/4/2023 3:02pm,Response Received,Selasie
+recirgidyhCU39KFi,kaenai01-rh,I10-MON16:15-B,4,1,4,4,4,4,4,1,4,4,4,4,Response Received,16:15,I10,12,10,,12/4/2023 2:57pm,Response Received,Dan
+recVU708lmlAOjlkA,hunkel01-rh,A8-TUE15:00-A,3,1,2,3,1,2,3,1,2,3,1,2,Response Received,15:00,A8,12,0,,12/4/2023 2:53pm,Response Received,Greg
+recZGCwvC1CEJivUB,rougro01-rh,A11-WED17:30-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,17:30,A11,12,8,,12/4/2023 2:50pm,Response Received,Imaan
+rece6sfLnfj94eXaR,janmar01-rh,A8-TUE15:00-A,3,3,4,1,2,4,1,2,4,2,3,4,Response Received,15:00,A8,12,4,,12/4/2023 2:47pm,"Response Received, Response Received",Greg
+rec38hyfALSpDSMl1,lwanku01-rh,B10-TUE17:30-A,4,3,2,4,3,2,4,3,2,3,3,2,Response Received,17:30,B10,12,3,,12/4/2023 2:42pm,Response Received,Christine
+recKyD0qoMjAvQtZd,brakie01-rh,I11-TUE15:00-A,1,1,3,1,1,3,1,1,3,1,1,3,Response Received,15:00,I11,12,0,,12/4/2023 2:40pm,Response Received,Louise
+rec91VenTQCwCZxM6,migbot01-rh,A10-THU17:30-A,4,2,4,4,2,4,4,1,4,4,1,4,Response Received,17:30,A10,12,8,,12/4/2023 2:36pm,Response Received,Michael
+recVklHJV00IMaGMY,gabklu01-rh,A8-TUE15:00-A,2,4,4,4,4,4,1,1,3,4,4,4,Response Received,15:00,A8,12,8,,12/4/2023 2:30pm,Response Received,Greg
+recj06T53E1QnepXj,conpot01-rh,A10-WED17:30-B,4,3,1,4,3,2,4,3,1,4,3,2,Response Received,17:30,A10,12,4,,12/4/2023 2:28pm,Response Received,Vivienne
+recHlY5lqssRoYch6,davmil01-rh,A10-MON17:30-A,4,4,1,3,4,4,4,4,2,3,4,4,Response Received,17:30,A10,12,8,,12/4/2023 2:27pm,Response Received,Matthew
+recl3LOnYYYmkFQvk,dunweb01-rh,A13-WED17:30-A,3,2,2,3,2,2,2,2,2,3,2,2,Response Received,17:30,A13,12,0,,12/4/2023 2:26pm,Response Received,Jenna
+recCTVRzDZB7PHzN0,davweb01-rh,A12-THU17:30-A,4,4,2,4,4,2,2,2,2,4,4,2,Response Received,17:30,A12,12,6,,12/4/2023 2:25pm,Response Received,Jenna
+rec6l9URqB1oY5bu4,joswal01-rh,A12-MON16:15-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,16:15,A12,12,8,,12/4/2023 2:14pm,Response Received,Imaan
+recV1ZPSCtxipGRaG,rafval01-rh,A9-MON17:30-A,3,1,3,1,4,4,1,1,3,1,1,3,Response Received,17:30,A9,12,2,,12/4/2023 2:09pm,Response Received,Vivienne
+rec4pCteia896zG8Y,isahur01-rh,I11-TUE15:00-A,3,2,4,2,1,4,3,3,4,4,4,4,Response Received,15:00,I11,12,6,,12/4/2023 2:08pm,Response Received,Louise
+rectee0qu5RIhqqVC,elibeu01-rh,A10-TUE16:15-B,4,4,4,2,1,3,4,4,4,4,4,4,Response Received,16:15,A10,12,9,,12/4/2023 2:05pm,Response Received,Michael
+recvu5TU1oi3UFFzD,saisin01-rh,B11-THU17:30-A,4,4,4,4,3,1,4,4,4,4,3,1,Response Received,17:30,B11,12,8,,12/4/2023 1:53pm,Response Received,Kiah
+recIFHm1RjK37SMo2,emihen01-rh,I10-THU16:15-B,4,1,4,4,1,3,4,1,3,4,1,4,Response Received,16:15,I10,12,6,,12/4/2023 1:51pm,Response Received,Miche
+rec5z9e9XYhoYMZSM,ambhen01-rh,I9-MON16:15-A,4,3,1,4,2,1,4,2,1,4,3,4,Response Received,16:15,I9,12,5,,12/4/2023 1:51pm,Response Received,Joseph
+recldCfGkoBDk2Djg,aidmar01-rh,A12-THU17:30-B,4,3,1,4,3,1,4,3,1,4,3,1,Response Received,17:30,A12,12,4,,12/4/2023 1:48pm,Response Received,David
+recNUhc6VhNSWOw94,caidep01-rh,A13-MON16:15-A,4,4,1,4,3,4,4,3,4,4,3,4,Response Received,16:15,A13,12,8,,12/4/2023 1:47pm,Response Received,Jenna
+rec3AE3seZJVpfCiB,zaynan01-rh,I12-THU17:30-A,2,2,1,2,2,1,2,2,1,2,2,1,Response Received,17:30,I12,12,0,,12/4/2023 1:42pm,Response Received,Joseph
+recuQjiTJ3IRsS0Ta,riladd01-rh,I11-WED17:30-A,4,3,2,4,3,2,4,3,2,4,3,2,Response Received,17:30,I11,12,4,,12/4/2023 1:35pm,Response Received,Dan
+recfWXRZPWIvWglHd,joncoe01-rh,A10-TUE16:15-A,2,1,4,2,1,4,4,4,4,4,4,4,Response Received,16:15,A10,12,8,,12/4/2023 1:28pm,Response Received,Matthew
+recEr5H3TUjtXlNw8,kezcoe01-rh,I9-MON16:15-A,1,2,4,4,2,4,4,4,4,4,4,4,Response Received,16:15,I9,12,9,,12/4/2023 1:26pm,Response Received,Joseph
+rechNEszG8W65jao5,siesch01-rh,B13-THU16:15-A,1,1,3,4,4,3,4,4,3,4,1,2,Response Received,16:15,B13,12,5,,12/4/2023 1:25pm,Response Received,Christine
+recHrBeKaFjRNyYZH,duneng01-rh,A9-TUE17:30-A,3,2,1,3,3,1,4,4,4,2,2,1,Response Received,17:30,A9,12,3,,12/4/2023 1:25pm,Response Received,Vivienne
+recGx4fG873rSGWQL,qaemar01-rh,A8-THU16:15-C,4,2,2,4,3,3,4,2,2,4,3,3,Response Received,16:15,A8,12,4,,12/4/2023 1:20pm,Response Received,Jenna
+recMpLsleExopgvZk,avakri01-rh,B13-MON16:15-A,3,2,4,3,2,4,3,2,4,3,2,4,Response Received,16:15,B13,12,4,,12/4/2023 1:19pm,Response Received,Kiah
+recqpowYrPjfd7awb,motmol01-rh,I9-TUE17:30-A,4,4,3,4,4,1,4,4,1,4,4,1,Response Received,17:30,I9,12,8,,12/4/2023 1:19pm,Response Received,David
+recEFmcm0Ne9L7FFT,danvil01-rh,A8-TUE16:15-A,3,2,3,4,2,3,3,2,3,4,2,3,Response Received,16:15,A8,12,2,,12/4/2023 1:14pm,Response Received,Greg
+recEgZjTeVQ5rSKKc,lialin01-rh,B13-MON16:15-A,2,1,4,4,4,4,4,4,4,4,4,4,Response Received,16:15,B13,12,10,,12/4/2023 1:13pm,Response Received,Kiah
+recdPq9kLfNVHiqZH,nidmuk01-rh,I13-WED16:15-A,4,3,4,4,1,4,4,2,4,4,4,4,Response Received,16:15,I13,12,9,,12/4/2023 1:11pm,Response Received,Jenna
+recAEH1x6VhUlpUTp,mikmcl01-rh,A11-MON16:15-A,4,4,4,1,1,3,4,4,3,4,3,3,Response Received,16:15,A11,12,6,,12/4/2023 1:10pm,Response Received,Selasie
+recsmBfGaXzM4t4R3,mickru01-rh,B13-MON16:15-A,3,2,3,2,4,4,3,4,4,2,4,4,Response Received,16:15,B13,12,6,,12/4/2023 1:08pm,Response Received,Kiah
+rect8S9VQPKSLFmOR,wasmpo01-rh,B10-MON16:15-A,4,2,1,4,3,4,4,1,1,4,3,4,Response Received,16:15,B10,12,6,,12/4/2023 1:07pm,Response Received,Christine
+recNyC7KZrXDcpLh8,nhltsh01-rh,A8-THU17:30-A,4,4,4,4,3,1,4,3,1,4,3,1,Response Received,17:30,A8,12,6,,12/4/2023 1:06pm,Response Received,Greg
+recqOJts5YJ42ZM3n,jorbar01-rh,I8-MON16:15-A,4,1,2,4,4,4,1,1,1,4,2,2,Response Received,16:15,I8,12,5,,12/4/2023 1:04pm,Response Received,Liza
+recqNqeUMUh3xEbJn,jonbla01-rh,I11-WED17:30-A,1,3,4,3,4,4,1,2,2,4,3,4,Response Received,17:30,I11,12,5,,12/4/2023 12:59pm,Response Received,Dan
+recRlDToWWGLXKIhI,kaitak01-rh,P13-TUE16:15-A,4,4,4,1,2,2,3,2,3,4,4,4,Response Received,16:15,P13,12,6,,12/4/2023 12:59pm,Response Received,Miche
+recm9ParmMkPSS3IR,stesch01-rh,A11-MON16:15-A,1,1,1,1,1,1,1,1,1,1,1,1,Response Received,16:15,A11,12,0,,12/4/2023 12:58pm,Response Received,Selasie
+receeX3hEhHd2xFVD,anabha01-rh,A10-THU15:00-A,4,4,4,4,4,4,3,4,4,1,4,4,Response Received,15:00,A10,12,10,,12/4/2023 12:58pm,Response Received,Greg
+recM4FGH6RhjWVV18,olikid01-rh,A12-MON17:30-A,4,4,1,4,1,4,4,1,4,4,4,1,Response Received,17:30,A12,12,8,,12/4/2023 12:55pm,Response Received,Greg
+rec7rojCzz07VKH12,matcol01-rh,P12-MON17:30-A,4,4,3,1,2,3,4,2,2,1,1,3,Response Received,17:30,P12,12,3,,12/4/2023 12:54pm,Response Received,Bilqees
+rec4V61m31BJAvMjY,tiamar01-rh,I13-WED16:15-A,2,2,4,2,2,4,2,2,4,2,2,4,Response Received,16:15,I13,12,4,,12/4/2023 12:43pm,Response Received,Jenna
+recoQjqZDqvX0GBxV,maydey01-rh,B11-THU17:30-A,3,3,3,3,3,3,4,4,1,1,1,1,Response Received,17:30,B11,12,2,,12/4/2023 12:38pm,Response Received,Kiah
+recPsQwJYPW4PpB6Z,chldey01-rh,A10-TUE16:15-B,4,1,1,1,1,1,4,4,4,2,4,4,Response Received,16:15,A10,12,6,,12/4/2023 12:32pm,Response Received,Michael
+recuXkJGYO8Potiem,jamhut01-rh,A12-THU16:15-A,4,4,4,4,4,4,4,4,4,4,1,3,Response Received,16:15,A12,12,10,,12/4/2023 12:28pm,Response Received,Louise
+recEEaA7wl1KAUHz9,giadav01-rh,A13-THU17:30-A,4,4,4,4,4,3,4,4,2,4,3,1,Response Received,17:30,A13,12,8,,12/4/2023 12:27pm,Response Received,Matthew
+recRGgBCqEwWBa317,kylsin01-rh,I11-WED15:00-A,4,4,4,4,2,4,4,1,3,4,2,2,Response Received,15:00,I11,12,7,,12/4/2023 12:18pm,Response Received,Louise
+recZ9VHaofoOKmhib,adacas01-rh,B12-TUE17:30-A,4,4,4,4,2,2,4,4,4,4,2,2,Response Received,17:30,B12,12,8,,12/4/2023 12:17pm,Response Received,Jess
+recU00dV6Rv1AODdo,rebqui01-rh,B11-THU16:15-A,4,4,4,4,4,4,4,4,4,4,4,1,Response Received,16:15,B11,12,11,,12/4/2023 12:15pm,Response Received,Tiffany
+recDtQBvs6yIi9mzO,catqui01-rh,I9-TUE17:30-A,4,4,4,4,4,1,4,4,4,4,4,4,Response Received,17:30,I9,12,11,,12/4/2023 12:13pm,Response Received,David
+recLK3sTsnhA1uUQv,xangro01-rh,I11-WED15:00-A,3,3,4,1,2,4,1,2,4,4,4,4,Response Received,15:00,I11,12,6,,12/4/2023 12:10pm,Response Received,Louise
+recpLOpgbwsueRHiX,ricgho01-rh,A10-THU15:00-A,1,4,4,1,4,4,4,4,4,1,4,4,Response Received,15:00,A10,12,9,,12/4/2023 12:09pm,Response Received,Greg
+rec5ElPWlZnxNDdcp,gabpap01-rh,I12-WED16:15-A,4,4,3,4,4,3,1,2,3,2,2,3,Response Received,16:15,I12,12,4,,12/4/2023 12:06pm,Response Received,Joseph
+recYh6fgiUmTaJ9lZ,kayhem01-rh,I12-MON17:30-A,4,2,2,4,4,4,4,4,4,4,4,4,Response Received,17:30,I12,12,10,,12/4/2023 12:06pm,Response Received,Julian
+reciUXHCwF61OUamv,rohdeb01-rh,I10-WED15:00-A,3,3,4,2,2,4,1,4,4,3,3,4,Response Received,15:00,I10,12,5,,12/4/2023 12:05pm,Response Received,Liza
+recfZBrpWWM32JHJf,kerhem01-rh,B12-TUE16:15-A,4,4,4,4,2,2,4,4,4,4,4,2,Response Received,16:15,B12,12,9,,12/4/2023 12:05pm,Response Received,Kiah
+recGC8Lb6SiCJL667,zahjoh01-rh,I11-TUE16:15-A,4,2,3,4,1,2,4,1,1,4,1,1,Response Received,16:15,I11,12,4,,12/4/2023 12:03pm,Response Received,Louise
+recT7xjKrRlKRlqlj,alekri01-rh,A9-TUE17:30-A,3,2,4,3,2,3,3,2,3,3,2,3,Response Received,17:30,A9,12,1,,12/4/2023 12:00pm,Response Received,Vivienne
+rec9tXMCymVLAdWJ6,casvan01-rh,I10-THU16:15-B,4,1,4,4,2,4,4,2,4,4,2,4,Response Received,16:15,I10,12,8,,12/4/2023 11:58am,Response Received,Miche
+recQAhXDIO5maBwE1,micvan01-rh,I9-TUE17:30-A,4,3,1,4,3,1,4,3,1,4,4,4,Response Received,17:30,I9,12,6,,12/4/2023 11:57am,Response Received,David
+recZf5kq5kn5Jef7k,sibnts01-rh,I12-THU17:30-A,4,2,1,4,2,1,4,2,1,4,2,1,Response Received,17:30,I12,12,4,,12/4/2023 11:56am,Response Received,Joseph
+rectBuMbrNjWaCBGL,adrmin01-rh,A11-TUE17:30-A,4,4,4,4,4,1,4,4,3,4,4,2,Response Received,17:30,A11,12,9,,12/4/2023 11:56am,Response Received,Imaan
+recUJThUum2UY7jdB,makmub01-rh,I11-WED15:00-A,4,4,3,4,3,2,4,3,1,4,4,4,Response Received,15:00,I11,12,7,,12/4/2023 11:55am,Response Received,Louise
+recCuJWdvOTp2RWrm,ademat01-rh,I10-WED17:30-A,1,4,3,2,4,2,1,4,3,2,4,2,Response Received,17:30,I10,12,4,,12/4/2023 11:55am,Response Received,Louise
+recME8MsPvgGPuApL,zafham01-rh,A10-THU17:30-A,4,3,1,4,2,1,4,3,1,4,1,1,Response Received,17:30,A10,12,4,,12/4/2023 11:54am,Response Received,Michael
+recN6wEePA1QxZbLp,josste01-rh,B10-MON17:30-A,1,1,2,4,4,4,3,3,3,4,4,4,Response Received,17:30,B10,12,6,,12/4/2023 11:53am,Response Received,Christine
+recb7IlrI1o52bZE7,vacgov01-rh,I12-THU17:30-A,4,4,4,2,2,2,2,2,2,3,3,3,Response Received,17:30,I12,12,3,,12/4/2023 11:52am,Response Received,Joseph
+reckYQ915ysdYLdVg,rorwil01-rh,I12-THU17:30-A,4,2,2,4,2,1,4,2,1,4,2,2,Response Received,17:30,I12,12,4,,12/4/2023 11:47am,Response Received,Joseph
+recVnJfVEDlAupLBt,kuenkh01-rh,A12-TUE17:30-A,4,4,3,4,1,1,4,4,4,4,1,1,Response Received,17:30,A12,12,7,,12/4/2023 11:44am,Response Received,Matthew
+recn8gocNJOtMCdD5,matran01-rh,A13-THU17:30-A,4,4,3,4,4,3,4,4,4,4,4,2,Response Received,17:30,A13,12,9,,12/4/2023 11:42am,Response Received,Matthew
+recWvdvM2Tbb2RCS6,jullau01-rh,B12-WED16:15-A,2,1,2,2,1,2,2,1,2,2,4,2,Response Received,16:15,B12,12,1,,12/4/2023 11:42am,Response Received,Tiffany
+recaeI9D0IDJ2D7ZW,sebsch01-rh,A11-TUE17:30-A,4,4,4,4,4,3,2,4,4,4,4,4,Response Received,17:30,A11,12,10,,12/4/2023 11:42am,Response Received,Imaan
+recCVR4jKIoikynMz,thoost01-rh,A7-TUE17:30-B,3,2,3,3,2,3,3,2,3,3,2,3,Response Received,17:30,A7,12,0,,12/4/2023 11:39am,Response Received,Jenna
+recGSKd2UjNPNsVjZ,josrab02-rh,A13-MON16:15-A,1,2,2,2,3,3,2,2,2,3,3,3,Response Received,16:15,A13,12,0,,12/4/2023 11:39am,Response Received,Jenna
+reclLbbBZLhAxrDIr,nenpas01-rh,B11-THU16:15-A,4,1,1,4,2,2,4,1,1,4,1,2,Response Received,16:15,B11,12,4,,12/4/2023 11:37am,Response Received,Tiffany
+recDF2mqidMxlT8d3,natkok01-rh,A10-THU17:30-A,4,1,3,4,1,3,4,1,3,4,1,3,Response Received,17:30,A10,12,4,,12/4/2023 11:36am,Response Received,Michael
+recbIaxtIUZovcClz,ewagri01-rh,A10-WED16:15-A,4,4,4,4,4,4,3,1,1,2,1,4,Response Received,16:15,A10,12,7,,12/4/2023 11:36am,Response Received,Greg
+recE66LIwmFtC5eYP,drichh01-rh,A12-MON17:30-A,4,4,2,4,4,3,4,4,4,4,4,4,Response Received,17:30,A12,12,10,,12/4/2023 11:35am,Response Received,Greg
+recJUI8mnf0LjNgbI,bengib01-rh,A10-THU17:30-A,4,4,4,2,2,3,4,4,4,4,4,1,Response Received,17:30,A10,12,8,,12/4/2023 11:35am,Response Received,Michael
+recaqc7pTTGjT2QPc,bersny01-rh,I12-TUE15:00-A,1,2,4,1,2,4,1,2,4,4,4,4,Response Received,15:00,I12,12,6,,12/4/2023 11:35am,Response Received,Liza
+recAvSHBWJJdkEVKd,liadup01-rh,I10-THU16:15-B,4,4,4,4,4,3,1,1,3,1,1,3,Response Received,16:15,I10,12,5,,12/4/2023 11:33am,Response Received,Miche
+recY7I21EhXCFsWvr,mahbha01-rh,A10-WED17:30-B,4,4,4,4,4,4,4,4,1,4,4,4,Response Received,17:30,A10,12,11,,12/4/2023 11:32am,Response Received,Vivienne
+recoBi4PXbPidmUXe,rahsai01-rh,B12-WED17:30-A,4,4,4,4,4,4,4,2,1,4,4,4,Response Received,17:30,B12,12,10,,12/4/2023 11:31am,Response Received,Bilqees
+rec9DjkywMgbSqBsD,eshgov01-rh,I10-MON15:00-A,1,2,3,4,4,4,2,2,3,4,4,4,Response Received,15:00,I10,12,6,,12/4/2023 11:31am,Response Received,Liza
+recJ6cfyRtIs4OTGA,kgram01-rh,B12-THU16:15-A,4,4,4,3,2,2,3,2,2,4,4,4,Response Received,16:15,B12,12,6,,12/4/2023 11:31am,Response Received,Kiah
+recNSkflwqDFo2mcy,jonmos01-rh,A11-TUE17:30-A,4,4,1,4,4,4,4,4,2,4,4,4,Response Received,17:30,A11,12,10,,12/4/2023 11:30am,Response Received,Imaan
+recDjUPlfF58ntmCm,kgopoo01-rh,A8-THU16:15-C,4,4,4,4,1,2,4,1,3,4,1,4,Response Received,16:15,A8,12,7,,12/4/2023 11:29am,Response Received,Jenna
+recI47bD1cuKG2inC,miljok01-rh,B13-WED15:00-A,4,2,4,4,2,4,1,1,2,1,1,3,Response Received,15:00,B13,12,4,,12/4/2023 11:29am,Response Received,Dieter
+reckcrfwpRzKeFVrO,saimal01-rh,A8-WED17:30-B,4,4,4,4,2,1,4,2,1,4,4,4,Response Received,17:30,A8,12,8,,12/4/2023 11:24am,Response Received,Greg
+recrqnPhtWF4HSo5t,ktram01-rh,I12-WED16:15-A,4,4,4,3,2,2,3,2,2,4,4,4,Response Received,16:15,I12,12,6,,12/4/2023 11:23am,Response Received,Joseph
+recbQLpoTyAySSBpq,chrfou01-rh,P13-TUE17:30-A,2,4,4,2,1,1,2,1,1,2,1,1,Response Received,17:30,P13,12,2,,12/4/2023 11:23am,Response Received,Bilqees
+recDiPIUJFnbKYpx3,olicur01-rh,I12-MON17:30-A,3,2,1,4,2,1,3,2,1,3,4,4,Response Received,17:30,I12,12,3,,12/4/2023 11:21am,Response Received,Julian
+rec75gdKtPMyPJ9fB,liacor02-rh,I13-MON16:15-A,4,2,4,4,4,4,4,4,1,4,4,4,Response Received,16:15,I13,12,10,,12/4/2023 11:21am,Response Received,Julian
+rec0WwhFj2poAx0T9,josmnd01-rh,B12-WED16:15-A,4,3,1,2,2,2,3,1,2,2,1,2,Response Received,16:15,B12,12,1,,12/4/2023 11:18am,Response Received,Tiffany
+recnY0TKt3f3cJRzc,jamvan01-rh,P13-TUE17:30-A,4,4,3,4,4,2,4,4,4,4,4,4,Response Received,17:30,P13,12,10,,12/4/2023 11:18am,Response Received,Bilqees
+recUegiE35JW79zOt,josdup01-rh,A10-TUE16:15-A,4,4,4,1,1,2,4,4,4,4,3,2,Response Received,16:15,A10,12,7,,12/4/2023 11:18am,Response Received,Matthew
+recjYN2p2zXe0B5Wy,pieryn01-rh,I11-THU17:30-A,4,2,1,4,2,1,4,2,1,4,2,1,Response Received,17:30,I11,12,4,,12/4/2023 11:17am,Response Received,Liza
+reccMKKFsE76EmsCJ,gabdas01-rh,A12-MON17:30-A,4,3,1,4,3,1,4,3,1,4,3,1,Response Received,17:30,A12,12,4,,12/4/2023 11:17am,Response Received,Greg
+recZPYoFXABoDQrL6,domdup01-rh,B12-WED17:30-A,4,4,1,4,4,4,4,4,4,4,4,1,Response Received,17:30,B12,12,10,,12/4/2023 11:17am,Response Received,Bilqees
+recF2coCA865sdY0n,handup02-rh,B10-TUE15:00-A,4,4,4,1,1,2,4,4,4,4,3,2,Response Received,15:00,B10,12,7,,12/4/2023 11:17am,Response Received,Dieter
+recj2g8ZQ4AbTmwCT,lucsta01-rh,A13-MON16:15-A,4,0,2,4,0,3,4,1,1,4,2,4,Response Received,16:15,A13,10,5,,12/4/2023 11:16am,Response Received,Jenna
+recBG2sn4FRwBLVwG,jeadup01-rh,I12-THU17:30-A,4,4,1,4,4,4,4,4,4,4,4,1,Response Received,17:30,I12,12,10,,12/4/2023 11:16am,Response Received,Joseph
+recuWNMMCz1cqleEc,udyjog01-rh,I9-MON16:15-A,1,2,0,1,2,0,1,0,0,0,0,0,Response Received,16:15,I9,5,0,Resend Form,12/4/2023 11:16am,Response Received,Joseph
+recJfC659sWKrCatc,lwamth01-rh,I11-MON17:30-A,0,0,1,0,0,1,0,0,1,0,0,1,Response Received,17:30,I11,4,0,Resend Form,12/4/2023 11:15am,"Response Received, Response Received",Dan
+recI42IcBUSirbRSw,wajdav01-rh,A7-TUE17:30-B,4,2,1,4,2,1,4,2,1,4,2,1,Response Received,17:30,A7,12,4,,12/4/2023 11:15am,Response Received,Jenna
+recnW7uHLSOw6cUwr,jaiwes01-rh,A11-WED17:30-A,4,3,1,4,3,1,4,3,2,4,3,1,Response Received,17:30,A11,12,4,,12/4/2023 11:14am,Response Received,Imaan
+recrN8NA9OtKf67ES,ryacoo01-rh,A13-THU17:30-A,3,1,1,3,2,1,4,4,2,1,1,1,Response Received,17:30,A13,12,2,,12/4/2023 11:14am,Response Received,Matthew
+recgHOwaWqrCYguOM,bengro02-rh,I12-TUE15:00-A,1,4,4,4,4,4,1,4,4,4,4,4,Response Received,15:00,I12,12,10,,12/4/2023 11:14am,Response Received,Liza
+recZJlXGDKBK40DAh,timber01-rh,A10-WED16:15-A,2,2,4,2,2,4,1,2,4,2,2,4,Response Received,16:15,A10,12,4,,12/4/2023 11:14am,Response Received,Greg
+recWWXIZImbfYk9sA,frabla01-rh,A12-MON17:30-A,0,2,1,0,2,1,0,2,1,0,2,1,Response Received,17:30,A12,8,0,,12/4/2023 11:14am,Response Received,Greg
+recjtbbY6K8Y2W6io,rainai01-rh,B10-MON16:15-B,1,1,4,2,3,4,2,1,1,4,4,4,Response Received,16:15,,12,5,,12/4/2023 11:13am,Response Received,Dieter
+rechOqzkAAQ1TAyBI,milpik01-rh,I9-WED17:30-A,1,1,1,0,0,0,0,0,0,0,0,0,Response Received,17:30,I9,3,0,Resend Form,12/4/2023 11:12am,"Response Received, Response Received",Joseph
+rec4NETTtot5GTy4Q,moltsh01-rh,B13-TUE16:15-A,4,4,4,4,2,2,4,2,2,4,2,2,Response Received,16:15,B13,12,6,,12/4/2023 11:12am,Response Received,Dieter
+recoqVqclgH4DJW09,ethlaz01-rh,B13-WED15:00-A,1,3,4,1,3,4,1,3,4,1,3,4,Response Received,15:00,B13,12,4,,12/4/2023 11:11am,Response Received,Dieter
+reczBinaBPjaxdHFz,calpri01-rh,I12-WED16:15-B,0,0,0,0,0,0,0,1,0,0,0,0,Response Received,16:15,I12,1,0,Resend Form,12/4/2023 11:10am,"Response Received, Response Received",Louise
+rec1lwfedHKVcLPG7,matcur02-rh,A13-MON16:15-A,1,3,4,4,4,4,4,4,4,4,4,4,Response Received,16:15,A13,12,10,,12/4/2023 11:10am,Response Received,Jenna
+recPZ7540448TegME,kaimos01-rh,A8-WED17:30-B,4,4,2,4,4,2,4,4,2,4,4,2,Response Received,17:30,A8,12,8,,12/4/2023 11:09am,Response Received,Greg
+recOMbCtJWoc2FIJX,devhar01-rh,I10-MON17:30-A,4,4,1,4,4,2,4,4,2,4,4,2,Response Received,17:30,I10,12,8,,12/4/2023 11:08am,Response Received,Miche
+rec2MadsC4Ljhe7fC,imrsim01-rh,B13-MON17:30-A,0,0,2,0,0,2,0,0,2,0,0,2,Response Received,17:30,B13,4,0,Resend Form,12/4/2023 11:08am,Response Received,Dieter
+rec5LdnlLY08ApFFo,trafis01-rh,A12-TUE17:30-A,4,4,2,4,3,1,4,2,1,4,3,1,Response Received,17:30,A12,12,5,,12/4/2023 11:08am,Response Received,Matthew
+rec4jCao56mjNunrJ,tatcam01-rh,B11-THU17:30-B,4,4,3,4,4,1,4,4,3,4,4,1,Response Received,17:30,B11,12,8,,12/4/2023 11:07am,Response Received,Dieter
+recyIodOGPDvu9h3D,gabmur01-rh,B12-TUE16:15-A,4,4,4,4,2,1,4,4,4,4,4,4,Response Received,16:15,B12,12,10,,12/4/2023 11:07am,Response Received,Kiah
+recusAbHZ2bouI1Bh,matjoh02-rh,B10-TUE16:15-A,0,0,0,0,0,1,0,0,0,0,0,0,Response Received,16:15,B10,1,0,Resend Form,12/4/2023 11:07am,"Response Received, Response Received, Response Received",Tiffany
+recRQtjsTHiPJxsaq,gabjoh01-rh,B10-THU15:00-A,0,0,0,0,0,1,0,0,0,0,0,0,Response Received,15:00,B10,1,0,Resend Form,12/4/2023 11:06am,"Response Received, Response Received",Dieter
+recsKx9IHsWGKQEHI,kialai01-rh,A13-WED17:30-A,4,2,1,4,2,1,4,2,1,4,2,1,Response Received,17:30,A13,12,4,,12/4/2023 11:06am,Response Received,Jenna
+rec8abTrJDNZ6ng53,yawkwa01-rh,I11-TUE16:15-A,3,4,4,3,1,2,3,4,4,4,4,4,Response Received,16:15,I11,12,7,,12/4/2023 11:06am,Response Received,Louise
+recYeA3KsX6W19oDs,finher01-rh,B12-WED17:30-A,4,2,2,4,4,2,4,4,2,4,4,2,Response Received,17:30,B12,12,7,,12/4/2023 11:05am,Response Received,Bilqees
+recbgNxS4zZgZ3b31,milcoe01-rh,B12-THU16:15-A,0,1,0,0,1,0,0,1,0,0,1,0,Response Received,16:15,B12,4,0,Resend Form,12/4/2023 11:05am,Response Received,Kiah
+receipCzzzhROITMw,hervan01-rh,A8-THU16:15-A,3,1,2,3,1,2,3,1,2,3,1,2,Response Received,16:15,A8,12,0,,12/4/2023 11:05am,Response Received,Greg
+recoynFBXcQxKtbW0,benrou01-rh,B10-WED16:15-A,2,1,4,2,1,4,2,1,4,1,1,4,Response Received,16:15,B10,12,4,,12/4/2023 11:05am,Response Received,Miche
+recfSIxKAgYzMxr3p,zidosm01-rh,,0,0,3,0,0,3,0,0,3,0,0,3,Response Received,#ERROR!,,4,0,Resend Form,12/4/2023 11:05am,Response Received,
+recaCbWDVbHh9WAoH,chadal01-rh,B10-MON16:15-B,4,2,3,4,3,3,4,3,3,4,3,3,Response Received,16:15,B10,12,4,,12/4/2023 11:04am,Response Received,Dieter
+recVGHqY86WPnNtvM,jesjou01-rh,B10-WED16:15-A,0,0,0,0,0,0,0,0,2,0,0,2,Response Received,16:15,B10,2,0,Resend Form,12/4/2023 11:04am,Response Received,Miche
+recVQe3PCn14mWXRu,juacro01-rh,A9-THU17:30-A,0,0,0,0,0,0,0,0,0,0,0,1,Response Received,17:30,A9,1,0,Resend Form,12/4/2023 11:04am,"Response Received, Response Received",Louise
+recQaoib4b62LiIhN,micjou01-rh,I10-WED16:15-A,0,0,0,0,0,0,0,0,2,0,0,2,Response Received,16:15,I10,2,0,Resend Form,12/4/2023 11:04am,"Response Received, Response Received",David
+rec4cghlKYSuRyOLe,thodow01-rh,B12-TUE16:15-A,0,1,0,0,0,0,0,0,0,0,0,0,Response Received,16:15,B12,1,0,Resend Form,12/4/2023 11:04am,"Response Received, Response Received",Kiah
+recFFfUy9gB7nAkmF,johbar01-rh,I12-WED16:15-B,0,0,0,0,0,0,2,0,0,2,0,0,Response Received,16:15,I12,2,0,Resend Form,12/4/2023 11:03am,"Response Received, Response Received",Louise
+recovipAoVFIwcOZh,keyjog01-rh,A8-TUE16:15-A,0,1,2,0,1,2,0,2,0,0,4,0,Response Received,16:15,A8,6,1,Resend Form,12/4/2023 11:03am,Response Received,Greg
+recLh5PSTAAUgMQWp,tyllot01-rh,A10-TUE16:15-B,4,2,3,1,1,3,4,2,3,4,2,3,Response Received,16:15,A10,12,3,,12/4/2023 11:03am,Response Received,Michael
+recte8kYfBUgdOCH8,conhic01-rh,B10-TUE17:30-A,4,4,1,4,4,1,4,4,1,4,4,1,Response Received,17:30,B10,12,8,,12/4/2023 11:02am,Response Received,Christine
+rect4C17i3E3MoXqY,dihdek01-rh,A8-MON17:30-A,2,1,1,2,1,3,2,2,2,4,3,3,Response Received,17:30,A8,12,1,,12/4/2023 11:02am,Response Received,Michael
+recnM6R0xVCFPDC7D,esindu01-rh,I10-WED17:30-A,0,3,0,0,1,1,0,1,1,0,1,1,Response Received,17:30,I10,7,0,,12/4/2023 10:59am,Response Received,Louise
+recX4nAKCNeTXgqLr,andmat01-rh,I8-MON17:30-B,4,2,1,4,2,1,4,2,1,4,2,1,Response Received,17:30,I8,12,4,,12/4/2023 10:59am,Response Received,Louise
+rec7FU68OWcNhJr3g,lukmoo01-rh,A11-WED16:15-A,0,0,0,0,0,0,1,0,0,0,0,0,Response Received,16:15,A11,1,0,Resend Form,12/4/2023 10:59am,"Response Received, Response Received",Selasie
+recMfcAw4moPEHGar,chahic01-rh,A12-THU16:15-A,0,0,0,0,0,0,0,0,0,0,0,2,Response Received,16:15,A12,1,0,Resend Form,12/4/2023 10:59am,"Response Received, Response Received",Louise
+recpKGxk6icmxerr4,mardel01-rh,I8-THU15:00-A,0,0,0,0,0,1,0,0,0,0,0,1,Response Received,15:00,I8,2,0,Resend Form,12/4/2023 10:56am,Response Received,Liza
+recyF6Zw0I945dHbb,joshig01-rh,A10-WED17:30-B,3,2,2,3,3,4,4,4,1,2,2,2,Response Received,17:30,A10,12,3,,12/4/2023 10:51am,Response Received,Vivienne

@@ -16,7 +16,7 @@ public class Timeslot {
     }
 
     public Timeslot(DayOfWeek dayOfWeek, LocalTime startTime) {
-        this(dayOfWeek, startTime, startTime.plusMinutes(50));
+        this(dayOfWeek, startTime, startTime.plusMinutes(60));
     }
 
     @Override
