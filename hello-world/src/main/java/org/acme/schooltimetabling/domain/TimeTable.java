@@ -12,13 +12,7 @@ import ai.timefold.solver.core.api.score.buildin.hardsoft.HardSoftScore;
 @PlanningSolution
 public class TimeTable {
 
-    @ProblemFactCollectionProperty
-    @ValueRangeProvider
     private List<Timeslot> timeslotList;
-
-    @ProblemFactCollectionProperty
-    @ValueRangeProvider
-    private List<Room> roomList;
 
     @ProblemFactCollectionProperty
     @ValueRangeProvider
@@ -26,14 +20,14 @@ public class TimeTable {
 
     @ProblemFactCollectionProperty
     @ValueRangeProvider
-    private List<Student> studentList;
+    private List<Tutor> tutorList;
 
     @ProblemFactCollectionProperty
     @ValueRangeProvider
-    private List<Tutor> tutorList;
+    private List<Student> studentList;
 
     @PlanningEntityCollectionProperty
-    private List<Lesson> lessonList;
+    private List<Classroom> classroomList;
 
     @PlanningScore
     private HardSoftScore score;
@@ -42,14 +36,13 @@ public class TimeTable {
     public TimeTable() {
     }
 
-    public TimeTable(List<Timeslot> timeslotList, List<Room> roomList, List<Cohort> cohortList,
-            List<Student> studentList, List<Tutor> tutorList, List<Lesson> lessonList) {
+    public TimeTable(List<Timeslot> timeslotList, List<Cohort> cohortList, List<Tutor> tutorList,
+            List<Student> studentList, List<Classroom> classroomList) {
         this.timeslotList = timeslotList;
-        this.roomList = roomList;
         this.cohortList = cohortList;
-        this.studentList = studentList;
         this.tutorList = tutorList;
-        this.lessonList = lessonList;
+        this.studentList = studentList;
+        this.classroomList = classroomList;
     }
 
     // ************************************************************************
@@ -60,24 +53,20 @@ public class TimeTable {
         return timeslotList;
     }
 
-    public List<Room> getRoomList() {
-        return roomList;
-    }
-
     public List<Cohort> getCohortList() {
         return cohortList;
-    }
-
-    public List<Student> getStudentList() {
-        return studentList;
     }
 
     public List<Tutor> getTutorList() {
         return tutorList;
     }
 
-    public List<Lesson> getLessonList() {
-        return lessonList;
+    public List<Student> getStudentList() {
+        return studentList;
+    }
+
+    public List<Classroom> getClassroomList() {
+        return classroomList;
     }
 
     public HardSoftScore getScore() {

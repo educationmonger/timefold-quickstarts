@@ -29,34 +29,6 @@ public class CSVReaderUtility {
         return cohorts;
     }
 
-    public static List<Student> readStudents(String filePath, List<Timeslot> timeslots)
-            throws IOException {
-        List<Student> students = new ArrayList<>();
-        try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
-
-            String line;
-            reader.readLine(); // skip the header row
-
-            while ((line = reader.readLine()) != null) {
-                String[] tokens = line.split(",");
-                String studentId = tokens[0].trim();
-                String cohortLabel = tokens[17].trim();
-                Cohort cohort = Cohort.getCohort(cohortLabel);
-                Map<Timeslot, Integer> availability = new HashMap<>();
-
-                for (int i = 0; i < timeslots.size(); i++) {
-                    int score = Integer.parseInt(tokens[i + 3].trim()); // +3 to start at the right column
-                    availability.put(timeslots.get(i), score);
-                }
-
-                if (cohort != null) {
-                    students.add(new Student(studentId, cohort, availability));
-                }
-            }
-        }
-        return students;
-    }
-
     public static List<Tutor> readTutors(String filePath, List<Timeslot> timeslots) throws IOException {
         List<Tutor> tutors = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
@@ -113,6 +85,34 @@ public class CSVReaderUtility {
             availability.put(timeslots.get(i - start), Boolean.parseBoolean(tokens[i].trim()));
         }
         return availability;
+    }
+
+    public static List<Student> readStudents(String filePath, List<Timeslot> timeslots)
+            throws IOException {
+        List<Student> students = new ArrayList<>();
+        try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
+
+            String line;
+            reader.readLine(); // skip the header row
+
+            while ((line = reader.readLine()) != null) {
+                String[] tokens = line.split(",");
+                String studentId = tokens[0].trim();
+                String cohortLabel = tokens[17].trim();
+                Cohort cohort = Cohort.getCohort(cohortLabel);
+                Map<Timeslot, Integer> availability = new HashMap<>();
+
+                for (int i = 0; i < timeslots.size(); i++) {
+                    int score = Integer.parseInt(tokens[i + 3].trim()); // +3 to start at the right column
+                    availability.put(timeslots.get(i), score);
+                }
+
+                if (cohort != null) {
+                    students.add(new Student(studentId, cohort, availability));
+                }
+            }
+        }
+        return students;
     }
 
 }
