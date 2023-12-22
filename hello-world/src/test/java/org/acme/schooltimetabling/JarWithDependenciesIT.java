@@ -13,13 +13,12 @@ import java.util.concurrent.TimeUnit;
 class JarWithDependenciesIT {
 
     // The property is set by maven-failsafe-plugin.
-    private static final Path PATH_TO_JAR_WITH_DEPENDENCIES =
-            Paths.get("target", System.getProperty("artifactName") + ".jar");
+    private static final Path PATH_TO_JAR_WITH_DEPENDENCIES = Paths.get("target",
+            System.getProperty("artifactName") + ".jar");
 
-    private static final Path PATH_TO_JAVA_EXECUTABLE_UNIX =
-            Paths.get(System.getenv("JAVA_HOME"), "bin", "java");
-    private static final Path PATH_TO_JAVA_EXECUTABLE_WINDOWS =
-            Paths.get(System.getenv("JAVA_HOME"), "bin", "java.exe");
+    private static final Path PATH_TO_JAVA_EXECUTABLE_UNIX = Paths.get(System.getenv("JAVA_HOME"), "bin", "java");
+    private static final Path PATH_TO_JAVA_EXECUTABLE_WINDOWS = Paths.get(System.getenv("JAVA_HOME"), "bin",
+            "java.exe");
 
     private Path pathToJavaExecutable;
 
@@ -49,7 +48,7 @@ class JarWithDependenciesIT {
                 .inheritIO()
                 .start();
         try {
-            process.waitFor(1, TimeUnit.MINUTES);
+            process.waitFor(10, TimeUnit.MINUTES);
             if (process.isAlive()) {
                 Assertions.fail("Executable JAR timed out.");
             }

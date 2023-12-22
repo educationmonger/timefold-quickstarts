@@ -12,22 +12,20 @@ import ai.timefold.solver.core.api.score.buildin.hardsoft.HardSoftScore;
 @PlanningSolution
 public class TimeTable {
 
+    // PROBLEM FACTS
+    private List<Cohort> cohortList;
+
+    private List<Student> studentList;
+
+    // PLANNING VARIABLES
+    @ProblemFactCollectionProperty
     private List<Timeslot> timeslotList;
 
     @ProblemFactCollectionProperty
-    @ValueRangeProvider
-    private List<Cohort> cohortList;
-
-    @ProblemFactCollectionProperty
-    @ValueRangeProvider
     private List<Tutor> tutorList;
 
-    @ProblemFactCollectionProperty
-    @ValueRangeProvider
-    private List<Student> studentList;
-
     @PlanningEntityCollectionProperty
-    private List<Classroom> classroomList;
+    private List<StudentAssignment> studentAssignmentList;
 
     @PlanningScore
     private HardSoftScore score;
@@ -36,41 +34,41 @@ public class TimeTable {
     public TimeTable() {
     }
 
-    public TimeTable(List<Timeslot> timeslotList, List<Cohort> cohortList, List<Tutor> tutorList,
-            List<Student> studentList, List<Classroom> classroomList) {
-        this.timeslotList = timeslotList;
+    public TimeTable(List<Cohort> cohortList, List<Student> studentList, List<Timeslot> timeslotList,
+            List<Tutor> tutorList, List<StudentAssignment> studentAssignmentList) {
         this.cohortList = cohortList;
-        this.tutorList = tutorList;
         this.studentList = studentList;
-        this.classroomList = classroomList;
+        this.timeslotList = timeslotList;
+        this.tutorList = tutorList;
+        this.studentAssignmentList = studentAssignmentList;
     }
 
-    // ************************************************************************
-    // Getters and setters
-    // ************************************************************************
-
-    public List<Timeslot> getTimeslotList() {
-        return timeslotList;
-    }
+    // GETTERS AND SETTERS
 
     public List<Cohort> getCohortList() {
-        return cohortList;
-    }
-
-    public List<Tutor> getTutorList() {
-        return tutorList;
+        return this.cohortList;
     }
 
     public List<Student> getStudentList() {
-        return studentList;
+        return this.studentList;
     }
 
-    public List<Classroom> getClassroomList() {
-        return classroomList;
+    @ValueRangeProvider(id = "timeslotRange")
+    public List<Timeslot> getTimeslotList() {
+        return this.timeslotList;
+    }
+
+    @ValueRangeProvider(id = "tutorRange")
+    public List<Tutor> getTutorList() {
+        return this.tutorList;
+    }
+
+    public List<StudentAssignment> getStudentAssignmentList() {
+        return this.studentAssignmentList;
     }
 
     public HardSoftScore getScore() {
-        return score;
+        return this.score;
     }
 
 }

@@ -21,7 +21,33 @@ public class Tutor {
         this.maxLessons = maxLessons;
     }
 
-    // Getters and setters...
+    // getters and setters
+
+    public String getName() {
+        return name;
+    }
+
+    public EnumSet<Level> getLevelProficiencies() {
+        return levelProficiencies;
+    }
+
+    public EnumSet<Platform> getPlatformProficiencies() {
+        return platformProficiencies;
+    }
+
+    public Map<Timeslot, Boolean> getAvailability() {
+        return availability;
+    }
+
+    public int getIdealLessons() {
+        return idealLessons;
+    }
+
+    public int getMaxLessons() {
+        return maxLessons;
+    }
+
+    // methods
 
     public boolean canTeach(Level level) {
         return levelProficiencies.contains(level);
@@ -33,5 +59,10 @@ public class Tutor {
 
     public boolean isAvailable(Timeslot timeslot) {
         return availability.getOrDefault(timeslot, false);
+    }
+
+    @Override
+    public String toString() {
+        return this.name;
     }
 }

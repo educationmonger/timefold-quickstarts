@@ -4,8 +4,8 @@ import java.util.Map;
 
 public class Student {
     private String id;
-    private Cohort cohort; 
-    private Map<Timeslot, Integer> availability; 
+    private Cohort cohort;
+    private Map<Timeslot, Integer> availability;
 
     // Constructor
     public Student(String id, Cohort cohort, Map<Timeslot, Integer> availability) {
@@ -31,5 +31,10 @@ public class Student {
     public boolean canAttend(Timeslot timeslot) {
         Integer score = availability.get(timeslot);
         return score != null && score > 0;
+    }
+
+    @Override
+    public String toString() {
+        return this.id;
     }
 }
