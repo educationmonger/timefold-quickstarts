@@ -40,9 +40,9 @@ public class CSVReaderUtility {
                 String[] tokens = line.split(",");
                 String name = tokens[0].trim();
 
-                EnumSet<Level> levelProficiencies = parseLevelProficiencies(tokens, 6, 9);
+                EnumSet<Level> levelProficiencies = parseLevelProficiencies(tokens, 6, 10);
                 EnumSet<Platform> platformProficiencies = parsePlatformProficiencies(tokens, 3, 5);
-                Map<Timeslot, Boolean> availability = parseAvailability(tokens, timeslots, 13, 24);
+                Map<Timeslot, Boolean> availability = parseAvailability(tokens, timeslots, 15, 26);
 
                 int idealLessons = Integer.parseInt(tokens[1].trim());
                 int maxLessons = Integer.parseInt(tokens[2].trim());
@@ -98,12 +98,12 @@ public class CSVReaderUtility {
             while ((line = reader.readLine()) != null) {
                 String[] tokens = line.split(",");
                 String studentId = tokens[0].trim();
-                String cohortLabel = tokens[17].trim();
+                String cohortLabel = tokens[14].trim();
                 Cohort cohort = Cohort.getCohort(cohortLabel);
                 Map<Timeslot, Integer> availability = new HashMap<>();
 
                 for (int i = 0; i < timeslots.size(); i++) {
-                    int score = Integer.parseInt(tokens[i + 3].trim()); // +3 to start at the right column
+                    int score = Integer.parseInt(tokens[i + 1].trim()); // +1 to start at the right column
                     availability.put(timeslots.get(i), score);
                 }
 
