@@ -40,7 +40,7 @@ public class TimeTableConstraintProvider implements ConstraintProvider {
                                 // studentAvailabilityScore(constraintFactory),
                                 // minTutorLessons(constraintFactory),
                                 rewardAssignmentsAt1530(constraintFactory),
-                                // limitTutorCohorts(constraintFactory),
+                                limitTutorCohorts(constraintFactory),
                 };
         }
 
@@ -207,18 +207,31 @@ public class TimeTableConstraintProvider implements ConstraintProvider {
         }
 
         Constraint goodNumberOfStudentsInClassroom(ConstraintFactory constraintFactory) {
-                // Define the optimal number of students per classroom
-                final int optimalClassSize = 7;
+                // The optimal class size range is 6 or 7 students
+                final int optimalLowerBound = 6;
+                final int optimalUpperBound = 7;
                 final int classSizeWeighting = 20;
 
                 return constraintFactory.forEach(StudentAssignment.class)
                                 // Group by Tutor and Timeslot to define a conceptual "Classroom"
                                 .groupBy(StudentAssignment::getTutor, StudentAssignment::getTimeslot,
                                                 ConstraintCollectors.count())
-                                // Apply a penalty based on the difference from the optimal class size
-                                .penalize("Optimal class size penalty", HardSoftScore.ONE_SOFT,
-                                                (tutor, timeslot, count) -> classSizeWeighting
-                                                                * Math.abs(count - optimalClassSize));
+                                // Apply a penalty based on the distance from the optimal class size range
+                                .penalize("Optimal class size range penalty", HardSoftScore.ONE_SOFT,
+                                                (tutor, timeslot, count) -> {
+                                                        if (count >= optimalLowerBound && count <= optimalUpperBound) {
+                                                                return 0; // No penalty for class sizes within the
+                                                                          // optimal range
+                                                        } else {
+                                                                return classSizeWeighting
+                                                                                * Math.abs(count - optimalUpperBound); // Penalty
+                                                                // increases
+                                                                // the
+                                                                // further
+                                                                // away from
+                                                                // 7
+                                                        }
+                                                });
         }
 
         Constraint studentAvailabilityScore(ConstraintFactory constraintFactory) {
@@ -253,18 +266,23 @@ public class TimeTableConstraintProvider implements ConstraintProvider {
                                 .reward("Reward assignments at 15:30", HardSoftScore.ofSoft(10));
         }
 
-        // Soft constraint to discourage tutors from teaching more than four unique
-        // cohorts
-        public Constraint limitTutorCohorts(ConstraintFactory constraintFactory) {
+        // Soft constraint to discourage tutors from teaching too many unique cohorts
+        Constraint limitTutorCohorts(ConstraintFactory constraintFactory) {
+                final int noPenaltyCohortUpperLimit = 3;
+                final int numCohortsWeighting = 500;
+
                 return constraintFactory.forEach(StudentAssignment.class)
-                                // Group by tutor and count unique cohorts
+                                // Group by tutor and count unique timeslots to define unique "classrooms"
                                 .groupBy(StudentAssignment::getTutor,
+                                                ConstraintCollectors.toSet((assignment) -> assignment.getTimeslot()),
                                                 ConstraintCollectors.toSet(
                                                                 (assignment) -> assignment.getStudent().getCohort()))
-                                .filter((tutor, cohorts) -> cohorts.size() > 4)
+                                .filter((tutor, uniqueTimeslots, cohorts) -> cohorts.size() > noPenaltyCohortUpperLimit
+                                                && cohorts.size() > uniqueTimeslots.size() / 2)
                                 .penalize("Limit tutor cohorts", HardSoftScore.ONE_SOFT,
-                                                (tutor, cohorts) -> cohorts.size() - 4); // Penalty for each extra
-                                                                                         // cohort
+                                                (tutor, uniqueTimeslots, cohorts) -> numCohortsWeighting
+                                                                * (cohorts.size() - Math.max(noPenaltyCohortUpperLimit,
+                                                                                uniqueTimeslots.size() / 2)));
         }
 
 }
